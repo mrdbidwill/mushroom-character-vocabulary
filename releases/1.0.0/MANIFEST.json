@@ -1,0 +1,132 @@
+{
+ "what": "Mushroom Character Vocabulary, release 1.0.0: permanent identifiers for the whole list; a release candidate until it is published",
+ "built_from": {
+  "export": "character_list_2026-11-19_120047",
+  "characters_two_names_sha256": "608f3d84dd31f090b12505ab199cc36d27209078f2da1260df46eb31c772c8fb",
+  "value_options_spelling_sha256": "684b1b2011cfa2cf8be4e60ebd092ce313537c2b366d70a68f4e8cd20bbaddde",
+  "characters_rebuilt_sha256": "1d95bf57b6729a57483abe1c30906e4618feee2322a41f4e549f673dbc637aa8",
+  "export_manifest_sha256": "00fa26e27d709db2ac6e3fd09a780502c56fad5bb18c6d3df93c65329d5787d5"
+ },
+ "rules": {
+  "file": "releases/release_rules.json",
+  "sha256": "baf7c75a9a66d3f128b80ef843491784596d12b55fe750f7fdbbcfc1cfcb86b0"
+ },
+ "register": {
+  "file": "releases/identifiers.csv",
+  "sha256": "532ce8ff928444030ad56df64b55bd93a97249f0860b5f4999a572ddd070a279",
+  "identifiers": 2167
+ },
+ "made_by": {
+  "tool": "releases/build_release.py",
+  "sha256": "490e3fb422cae68e0dd9071ee02ea7fd6a611b413bc3ecac6c6933e5678760c4"
+ },
+ "run_at_utc": "2026-11-23T11:55:25Z",
+ "counts": {
+  "identifiers": 2167,
+  "parts": 17,
+  "characters": 653,
+  "characters_cc0": 637,
+  "characters_other_license": 16,
+  "value_options": 1497,
+  "value_options_cc0": 1237,
+  "value_options_other_license": 260,
+  "character_names_that_differ_english_latin": 238,
+  "characters_with_an_item_of_the_first_list": 556,
+  "characters_with_registry_number": 136,
+  "value_options_in_the_list": 724,
+  "value_options_added": 773,
+  "value_option_descriptions_on_record_not_reissued": 160,
+  "keys_parts": 17,
+  "keys_characters": 683,
+  "keys_value_options": 757,
+  "spelling_corrections": 138,
+  "spelling_corrections_characters": 121,
+  "spelling_corrections_value_options": 17,
+  "new_versions_and_links": 676,
+  "new_versions_and_links_other_license": 0,
+  "new_versions_and_links_by_kind": {
+   "abbreviation written out": 9,
+   "joined": 32,
+   "made clear from XDE's sentence": 9,
+   "name: made clear": 2,
+   "name: mislabel": 4,
+   "name: place-holder settled": 7,
+   "name: words removed": 97,
+   "new character": 2,
+   "one of two alike kept": 4,
+   "one term, one spelling": 1,
+   "type": 226,
+   "unit": 36,
+   "value option added": 33,
+   "value option: one of two alike kept": 29,
+   "value options added": 185
+  },
+  "latin_names_in_a_display_form": 42,
+  "value_option_names_from_a_source_without_a_license": 331,
+  "value_option_names_from_such_a_source_of_more_than_three_words": 34,
+  "left_for_users_rows": 231,
+  "sources": 27
+ },
+ "files": {
+  "LICENSE.md": {
+   "bytes": 1524,
+   "sha256": "3aa16f050dbc9c1f384f0efcbb611a8010c56ea7f6c76038f7319dab079a7fcc"
+  },
+  "README.md": {
+   "bytes": 7652,
+   "sha256": "50465338bf89cf15dce2c1727843e4c900e3e9016dbca15011db552288bfa0f4"
+  },
+  "changes/new_versions_and_links.csv": {
+   "bytes": 142361,
+   "sha256": "e3c6ed6c3c960feaffb5683d2528a74755b4682f1cd3ae8b7dff9f1303347f64"
+  },
+  "changes/spelling_corrections.csv": {
+   "bytes": 26511,
+   "sha256": "980686ebe0874a108c2217e43791793cac8a134e2bb198b2749a4ccecc7f2cc5"
+  },
+  "characters.csv": {
+   "bytes": 186643,
+   "sha256": "a6016f39f6a8f7d8a1214af0d32b636039756d4074bf24ca711066354757638b"
+  },
+  "keys.csv": {
+   "bytes": 44015,
+   "sha256": "14b7153348e9ad39774a2bd3ec6d89b176636311f16abcf9368a73252a749575"
+  },
+  "left_for_users.csv": {
+   "bytes": 52615,
+   "sha256": "77244d6534c982f76d089505e68cccab28b4a9a6c3f3680909dbd45c8532016d"
+  },
+  "other_licenses/fungaltraits/README.md": {
+   "bytes": 766,
+   "sha256": "800b6f57349e7146fc7b171c4cb7e3ca8f1e64462b4c4dc122e27fd397f43046"
+  },
+  "other_licenses/fungaltraits/characters.csv": {
+   "bytes": 5084,
+   "sha256": "47f8c7165cc10cc8945efe3fd4b9ea5e21d16c89c5e0dbb43be58bf4550e520e"
+  },
+  "other_licenses/fungaltraits/left_for_users.csv": {
+   "bytes": 961,
+   "sha256": "c1ca2bf95a0fbc27ec830b544b70f98c53f778f8d6b1ae6580b398e329ff1482"
+  },
+  "other_licenses/fungaltraits/value_options.csv": {
+   "bytes": 56593,
+   "sha256": "917253f63c3da261b33b4c77fa7106a6acbad3fe9137ff8fdb0e16dc44218d44"
+  },
+  "parts.csv": {
+   "bytes": 985,
+   "sha256": "d3e521488a77fbb49f2ef5c0e3a0f97144f2389bf745563dd6c652eb84086386"
+  },
+  "sources.csv": {
+   "bytes": 5629,
+   "sha256": "4532491ba6eb29c4fc4db68be6b64e705cf0caf2ab645b06d996354f67245adb"
+  },
+  "value_options.csv": {
+   "bytes": 152071,
+   "sha256": "319ee7d52cf2257ecd4655c80b8ff3284b6c98f55b77f6c54dab0d64073c9667"
+  },
+  "vocabulary.json": {
+   "bytes": 429016,
+   "sha256": "3358ee59fa930d7995dbfca20aa58e9eaf1062bcf33d0a72e2a70deacbda5355"
+  }
+ }
+}

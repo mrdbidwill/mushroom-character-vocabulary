@@ -1,0 +1,26 @@
+{
+  "title": "Mushroom Character Vocabulary",
+  "upload_type": "dataset",
+  "description": "A list of the characters used to describe mushrooms: the parts of a mushroom, the characters of each part, and the value options of each character, each with a permanent identifier (https://w3id.org/mcv/). A proposal for use; every entry is marked proposed. Release 1.0.0: 2167 identifiers (17 parts, 653 characters, 1497 value options). LICENSES: the record is marked CC0 1.0 because the open list, the register and the rules are CC0 1.0. NOT CC0: the folder releases/1.0.0/other_licenses/fungaltraits/ (16 characters and 260 value options, words of FungalTraits, Põlme et al. 2020, CC BY-NC as a university repository lists it; not confirmed with the authors) and the pages in docs/ that show those words. The scripts are MIT. See README.md and LICENSE.md.",
+  "creators": [
+    {
+      "name": "Johnston, Will"
+    }
+  ],
+  "license": "cc0-1.0",
+  "keywords": [
+    "fungi",
+    "mushrooms",
+    "morphology",
+    "characters",
+    "controlled vocabulary",
+    "citizen science"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://w3id.org/mcv/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}

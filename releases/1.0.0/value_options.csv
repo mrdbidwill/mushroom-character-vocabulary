@@ -1,0 +1,1238 @@
+id,character_id,value_option_name,value_option_as_written,status,in_this_release,description_on_record,description_source,origin,values_recorded,mrdbid_value_option_keys
+MCV_0000671,MCV_0000018,High,High,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,1
+MCV_0000672,MCV_0000018,Low,Low,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,2
+MCV_0000673,MCV_0000018,Moderate,Moderate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,3
+MCV_0000674,MCV_0000018,None,None,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,4
+MCV_0000675,MCV_0000019,Button,Button,proposed,in the list as written,yes,Introductory Mycology,Introductory Mycology,0,5
+MCV_0000676,MCV_0000019,Mature,Mature,proposed,in the list as written,,,Introductory Mycology,6,6
+MCV_0000677,MCV_0000019,Past Prime,Past Prime,proposed,in the list as written,,,Introductory Mycology,0,7
+MCV_0000678,MCV_0000019,Young,Young,proposed,in the list as written,,,Introductory Mycology,0,8
+MCV_0000679,MCV_0000020,Anise (licorice),Anise (licorice),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,9
+MCV_0000680,MCV_0000020,Earthy,Earthy,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,10
+MCV_0000681,MCV_0000020,Farinaceous (like fresh meal),Farinaceous (like fresh meal),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,11
+MCV_0000682,MCV_0000020,Fruity,Fruity,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,12
+MCV_0000683,MCV_0000020,Garlic,Garlic,proposed,in the list as written,,,Mushrooms Demystified Second Edition,0,13
+MCV_0000684,MCV_0000020,Lemony,Lemony,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,14
+MCV_0000685,MCV_0000020,Maraschino cherries,Maraschino cherries,proposed,in the list as written,,,Mushrooms Demystified Second Edition,0,15
+MCV_0000686,MCV_0000020,Nauseous,Nauseous,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,16
+MCV_0000687,MCV_0000020,Nitrous,Nitrous,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,17
+MCV_0000688,MCV_0000020,None,None,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,18
+MCV_0000689,MCV_0000020,Pungent,Pungent,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,19
+MCV_0000690,MCV_0000020,Sewer gas,Sewer gas,proposed,in the list as written,,,Mushrooms Demystified Second Edition,0,20
+MCV_0000691,MCV_0000020,Spermatic,Spermatic,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,21 483
+MCV_0000692,MCV_0000020,spicy - red hots - dirty socks,spicy - red hots - dirty socks,proposed,in the list as written,,,Mushrooms Demystified Second Edition,0,22
+MCV_0000693,MCV_0000020,Acrid,Acrid,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,466
+MCV_0000694,MCV_0000020,Almond-like,Almond-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,467
+MCV_0000695,MCV_0000020,Anise-like,Anise-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,468
+MCV_0000696,MCV_0000020,Apricot-like,Apricot-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,469
+MCV_0000697,MCV_0000020,Bakery-like,Bakery-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,470
+MCV_0000698,MCV_0000020,Bleach-like,Bleach-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,471
+MCV_0000699,MCV_0000020,Cedar-like,Cedar-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,472
+MCV_0000700,MCV_0000020,Coal-tar-like,Coal-tar-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,473
+MCV_0000701,MCV_0000020,Cucumber-like,Cucumber-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,474
+MCV_0000702,MCV_0000020,Dark cacao chocolate-like,Dark cacao chocolate-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,475
+MCV_0000703,MCV_0000020,Frozen orange juice-like,Frozen orange juice-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,476
+MCV_0000704,MCV_0000020,Garlic-like,Garlic-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,477
+MCV_0000705,MCV_0000020,Maraschino-cherry-like,Maraschino-cherry_like,proposed,"in the list, spelling corrected",,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,478
+MCV_0000706,MCV_0000020,Normal/common,Normal/common,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,479
+MCV_0000707,MCV_0000020,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,480
+MCV_0000708,MCV_0000020,Radish-like,Radish-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,481
+MCV_0000709,MCV_0000020,Shrimp-like,Shrimp-like,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,482
+MCV_0000710,MCV_0000021,Acrid (= puckery? astringent)/Peppery,Acrid (= puckery? astringent)/Peppery,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,23
+MCV_0000711,MCV_0000021,Agreeable,Agreeable,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,24
+MCV_0000712,MCV_0000021,Bitter,Bitter,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,25
+MCV_0000713,MCV_0000021,Farinaceous (like fresh meal),Farinaceous (like fresh meal),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,26
+MCV_0000714,MCV_0000021,Mild,Mild,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,27
+MCV_0000715,MCV_0000021,None,None,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,28
+MCV_0000716,MCV_0000022,Not Toxic,Not Toxic,proposed,in the list as written,,,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,29
+MCV_0000717,MCV_0000022,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000718,MCV_0000022,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000719,MCV_0000022,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000720,MCV_0000022,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000721,MCV_0000023,"Caespitose (clustered, not joined)","Caespitose (clustered, not joined)",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,30
+MCV_0000722,MCV_0000023,Connate (fused at base),Connate (fused at base),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,31
+MCV_0000723,MCV_0000023,Gregarious (growing in a group),Gregarious (growing in a group),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,3,32
+MCV_0000724,MCV_0000023,Imbricate (overlapping),Imbricate (overlapping),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,33
+MCV_0000725,MCV_0000023,In troops or rings,In troops or rings,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,34
+MCV_0000726,MCV_0000023,Scattered (1-2 feet apart),Scattered (1-2 feet apart),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,35
+MCV_0000727,MCV_0000023,"Single, solitary","Single, solitary",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,1,36
+MCV_0000728,MCV_0000026,campanulate,campanulate; Companulate,proposed,"in the list, shown once for two written forms",yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,1,37 332
+MCV_0000729,MCV_0000026,conchate,conchate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,38
+MCV_0000730,MCV_0000026,conic,conic,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,39
+MCV_0000731,MCV_0000026,Convex,Convex,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,40 334
+MCV_0000732,MCV_0000026,cuspidate,cuspidate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,41 335
+MCV_0000733,MCV_0000026,cylindric,cylindric,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,42 336
+MCV_0000734,MCV_0000026,depressed,depressed,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,3,43 337
+MCV_0000735,MCV_0000026,infundibuliform,infundibuliform,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,44 341
+MCV_0000736,MCV_0000026,ovoid,ovoid,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,45 343
+MCV_0000737,MCV_0000026,papillate,papillate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,46 344
+MCV_0000738,MCV_0000026,parabolic,parabolic,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,47 345
+MCV_0000739,MCV_0000026,plane,plane,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,1,48 346
+MCV_0000740,MCV_0000026,pulvinate,pulvinate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,49 347
+MCV_0000741,MCV_0000026,umbilicate,umbilicate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,50 349
+MCV_0000742,MCV_0000026,umbonate,umbonate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,51 350
+MCV_0000743,MCV_0000026,Conical,Conical,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,333
+MCV_0000744,MCV_0000026,Flat,Flat,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,338
+MCV_0000745,MCV_0000026,Funnel-Shaped,Funnel-Shaped,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,339
+MCV_0000746,MCV_0000026,Hemispherical,Hemispherical,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,340
+MCV_0000747,MCV_0000026,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,342
+MCV_0000748,MCV_0000026,Spherical,Spherical,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,348
+MCV_0000749,MCV_0000026,Uplifted,Uplifted,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,351
+MCV_0000750,MCV_0000027,Dimidiate,Dimidiate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,52
+MCV_0000751,MCV_0000027,Flabelliform,Flabelliform,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,53
+MCV_0000752,MCV_0000027,Petaloid,Petaloid,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,54
+MCV_0000753,MCV_0000027,Spathulate,Spathulate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,55
+MCV_0000754,MCV_0000036,dry: Silky,dry:  Silky,proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,56
+MCV_0000755,MCV_0000036,dry: Dull,dry: Dull,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,6,57
+MCV_0000756,MCV_0000036,dry: Shiny,dry: Shiny,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,58
+MCV_0000757,MCV_0000036,Moist: lubricous/greasy,Moist:  lubricous/greasy,proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,59
+MCV_0000758,MCV_0000036,Moist: Glutinous (slimy),Moist: Glutinous (slimy),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,60
+MCV_0000759,MCV_0000036,Dry,Dry,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,352
+MCV_0000760,MCV_0000036,Gelatinous,Gelatinous,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,353
+MCV_0000761,MCV_0000036,Glutinous,Glutinous,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,354
+MCV_0000762,MCV_0000036,Moist,Moist,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,355
+MCV_0000763,MCV_0000036,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,356
+MCV_0000764,MCV_0000036,Subviscid,Subviscid,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,357
+MCV_0000765,MCV_0000036,Viscid,Viscid,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,358
+MCV_0000766,MCV_0000037,Areolate,Areolate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,2,61 367
+MCV_0000767,MCV_0000037,Canescent - Hairy,Canescent - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,62
+MCV_0000768,MCV_0000037,Fibrillose,Fibrillose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,63
+MCV_0000769,MCV_0000037,Floccose - Hairy,Floccose - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,64
+MCV_0000770,MCV_0000037,Furfuraceous,Furfuraceous,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,65
+MCV_0000771,MCV_0000037,Glabrous - Hairy,Glabrous - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,66
+MCV_0000772,MCV_0000037,Glutinous,Glutinous,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,67
+MCV_0000773,MCV_0000037,Granulose,Granulose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,68
+MCV_0000774,MCV_0000037,Hirsute - Hairy,Hirsute - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,69
+MCV_0000775,MCV_0000037,Hispid - Hairy,Hispid - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,70
+MCV_0000776,MCV_0000037,Hygrophanous,Hygrophanous,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,71
+MCV_0000777,MCV_0000037,Laccate,Laccate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,72
+MCV_0000778,MCV_0000037,Pruinose,Pruinose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,73
+MCV_0000779,MCV_0000037,Pubescent - Hairy,Pubescent - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,74
+MCV_0000780,MCV_0000037,Pulverulent,Pulverulent,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,75
+MCV_0000781,MCV_0000037,Rimose,Rimose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,76
+MCV_0000782,MCV_0000037,Rivulose,Rivulose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,77
+MCV_0000783,MCV_0000037,Rugose,Rugose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,1,78
+MCV_0000784,MCV_0000037,Rugulose,Rugulose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,79
+MCV_0000785,MCV_0000037,Scrobiculate,Scrobiculate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,0,80 385
+MCV_0000786,MCV_0000037,Sericeous,Sericeous,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,81
+MCV_0000787,MCV_0000037,Smooth,Smooth,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,82
+MCV_0000788,MCV_0000037,Squamose,Squamose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,83
+MCV_0000789,MCV_0000037,Squarrose,Squarrose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,84
+MCV_0000790,MCV_0000037,Strigose - Hairy,Strigose - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,85
+MCV_0000791,MCV_0000037,Tomentose - Hairy,Tomentose - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,86
+MCV_0000792,MCV_0000037,Uneven,Uneven,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,87
+MCV_0000793,MCV_0000037,Velvety - Hairy,Velvety - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,88
+MCV_0000794,MCV_0000037,Villose - Hairy,Villose - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,89
+MCV_0000795,MCV_0000037,Virgate,Virgate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,0,90 391
+MCV_0000796,MCV_0000037,Viscid -,Viscid -,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,91
+MCV_0000797,MCV_0000037,Warty,Warty,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,92
+MCV_0000798,MCV_0000037,Zonate,Zonate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,1,93
+MCV_0000799,MCV_0000037,Alveolate,Alveolate,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,364
+MCV_0000800,MCV_0000037,Appressed,Appressed,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,365
+MCV_0000801,MCV_0000037,Appressed-Fibrillose,Appressed-Fibrillose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,366
+MCV_0000802,MCV_0000037,Atomate,Atomate,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,368
+MCV_0000803,MCV_0000037,Bristled/Bristly,Bristled/Bristly,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,369
+MCV_0000804,MCV_0000037,Glabrous smooth,Glabrous smooth,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,370
+MCV_0000805,MCV_0000037,Innate,Innate,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,371
+MCV_0000806,MCV_0000037,Laciniate,Lacinate,proposed,"in the list, spelling corrected",,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,372
+MCV_0000807,MCV_0000037,Lacunose,Lacunose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,373
+MCV_0000808,MCV_0000037,Micaceous,Micaceous,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,374
+MCV_0000809,MCV_0000037,non-glabrous Downy-Wooly,non-glabrous Downy-Wooly,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,375
+MCV_0000810,MCV_0000037,non-glabrous Furfuraceous,non-glabrous Furfuraceous,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,376
+MCV_0000811,MCV_0000037,non-glabrous Granulose,non-glabrous Granulose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,377
+MCV_0000812,MCV_0000037,non-glabrous Hairy,non-glabrous Hairy,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,378
+MCV_0000813,MCV_0000037,non-glabrous Matted-Fibrillose,non-glabrous Matted-Fibrillose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,379
+MCV_0000814,MCV_0000037,non-glabrous Other,non-glabrous Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,380
+MCV_0000815,MCV_0000037,non-glabrous Pruinose,non-glabrous Pruinose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,381
+MCV_0000816,MCV_0000037,non-glabrous Scaly,non-glabrous Scaly,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,382
+MCV_0000817,MCV_0000037,non-glabrous Squamose,non-glabrous Squamose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,383
+MCV_0000818,MCV_0000037,non-glabrous Squamulose,non-glabrous Squamulose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,384
+MCV_0000819,MCV_0000037,Shaggy,Shaggy,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,386
+MCV_0000820,MCV_0000037,Strigose,Strigose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,387
+MCV_0000821,MCV_0000037,Superficial,Superficial,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,388
+MCV_0000822,MCV_0000037,Tomentose,Tomentose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,389
+MCV_0000823,MCV_0000037,Venose,Venose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,390
+MCV_0000824,MCV_0000037,Warted,Warted,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,392
+MCV_0000825,MCV_0000038,Arched,Arched,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,94
+MCV_0000826,MCV_0000038,Decurved,Decurved,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,95
+MCV_0000827,MCV_0000038,Exceeding,Exceeding,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,96
+MCV_0000828,MCV_0000038,Incurved,Incurved,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,97
+MCV_0000829,MCV_0000038,Involute,Involute,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,98
+MCV_0000830,MCV_0000038,Revolute,Revolute,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,99
+MCV_0000831,MCV_0000038,Straight,Straight,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,100
+MCV_0000832,MCV_0000038,Uplifted,Uplifted,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,101
+MCV_0000833,MCV_0000038,Appendiculate,Appendiculate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,102
+MCV_0000834,MCV_0000038,Crenate - Hairy,Crenate - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,103
+MCV_0000835,MCV_0000038,Entire,Entire,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,5,104
+MCV_0000836,MCV_0000038,Eroded,Eroded,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,105
+MCV_0000837,MCV_0000038,Lacerate,Lacerate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,106
+MCV_0000838,MCV_0000038,Plicate,Plicate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,107
+MCV_0000839,MCV_0000038,Serrate - Hairy,Serrate - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,108
+MCV_0000840,MCV_0000038,Split,Split,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,109
+MCV_0000841,MCV_0000038,Striate,Striate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,2,110
+MCV_0000842,MCV_0000038,Sulcate,Sulcate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,111
+MCV_0000843,MCV_0000038,Undulating - Hairy,Undulating - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,1,112
+MCV_0000844,MCV_0000038,Undulating [Wavy],,proposed,"added from XDE's list, item 13",,,,0,
+MCV_0000845,MCV_0000038,Incurved [Encurved],,proposed,"added from XDE's list, item 13",,,,0,
+MCV_0000846,MCV_0000038,Involute [Inrolled],,proposed,"added from XDE's list, item 13",,,,0,
+MCV_0000847,MCV_0000038,Ciliate [Fringed],,proposed,"added from XDE's list, item 13",,,,0,
+MCV_0000848,MCV_0000038,Revolute [Rolled Back],,proposed,"added from XDE's list, item 13",,,,0,
+MCV_0000849,MCV_0000038,Exceeding Gills,,proposed,"added from XDE's list, item 13",,,,0,
+MCV_0000850,MCV_0000038,Serrate,,proposed,"added from XDE's list, item 13",,,,0,
+MCV_0000851,MCV_0000039,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000852,MCV_0000039,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000853,MCV_0000039,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000854,MCV_0000039,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000855,MCV_0000045,Brittle,Brittle,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,113
+MCV_0000856,MCV_0000045,Compact,Compact,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,114
+MCV_0000857,MCV_0000045,Corky,Corky,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,115
+MCV_0000858,MCV_0000045,Firm,Firm,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,116
+MCV_0000859,MCV_0000045,Other,Other,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,117
+MCV_0000860,MCV_0000045,Rigid,Rigid,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,118
+MCV_0000861,MCV_0000045,Soft,Soft,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,119
+MCV_0000862,MCV_0000045,Spongy,Spongy,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,120
+MCV_0000863,MCV_0000050,Adnate - ascending,Adnate - ascending,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,121
+MCV_0000864,MCV_0000050,Adnate - horizontal,Adnate - horizontal,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,122
+MCV_0000865,MCV_0000050,Adnexed (almost free),Adnexed (almost free),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,123
+MCV_0000866,MCV_0000050,Collared,Collared,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,0,124 407
+MCV_0000867,MCV_0000050,Decurrent - long,Decurrent - long,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,125
+MCV_0000868,MCV_0000050,Decurrent - short,Decurrent - short,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,126
+MCV_0000869,MCV_0000050,Emarginate (notched),Emarginate (notched),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,127
+MCV_0000870,MCV_0000050,Free - close,Free - close,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,1,128
+MCV_0000871,MCV_0000050,Free - remote,Free - remote,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,129
+MCV_0000872,MCV_0000050,Seceding (breaking away),Seceding (breaking away),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,130
+MCV_0000873,MCV_0000050,Sinuate,Sinuate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,131 410
+MCV_0000874,MCV_0000050,Uncinate (w/decurrent tooth),Uncinate (w/decurrent tooth),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,132
+MCV_0000875,MCV_0000050,Adnate,Adnate,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,405
+MCV_0000876,MCV_0000050,Adnexed,Adnexed,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,406
+MCV_0000877,MCV_0000050,Decurrent,Decurrent,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,408
+MCV_0000878,MCV_0000050,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,409
+MCV_0000879,MCV_0000051,Broad,Broad,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,1,133 402
+MCV_0000880,MCV_0000051,Free - close,Free - close,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,134
+MCV_0000881,MCV_0000051,Ventricose,Ventricose,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,135 404
+MCV_0000882,MCV_0000051,Narrow,Narrow,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,403
+MCV_0000883,MCV_0000052,Average,Average,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,136 398
+MCV_0000884,MCV_0000052,Tapering,Tapering,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,137 400
+MCV_0000885,MCV_0000052,Thick,Thick,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,138 401
+MCV_0000886,MCV_0000052,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,399
+MCV_0000887,MCV_0000053,Close,Close,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,0,139 393
+MCV_0000888,MCV_0000053,Crowded,Crowded,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,1,140 394
+MCV_0000889,MCV_0000053,Distant,Distant,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,0,141 395
+MCV_0000890,MCV_0000053,Subdistant,Subdistant; Sub-Distant,proposed,"in the list, shown once for two written forms",yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,0,142 397
+MCV_0000891,MCV_0000053,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,396
+MCV_0000892,MCV_0000056,Acute,Acute,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,143
+MCV_0000893,MCV_0000056,Crenate (scalloped),Crenate (scalloped),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,144
+MCV_0000894,MCV_0000056,Crisped (crinkled),Crisped (crinkled),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,145
+MCV_0000895,MCV_0000056,"Eroded (""gnawed"")","Eroded (""gnawed"")",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,146
+MCV_0000896,MCV_0000056,Even - entire,Even - entire,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,3,147
+MCV_0000897,MCV_0000056,Fimbriate (fringed),Fimbriate (fringed),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,148
+MCV_0000898,MCV_0000056,Marginate (diff. color),Marginate (diff. color),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,149
+MCV_0000899,MCV_0000056,Obtuse (blunt),Obtuse (blunt),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,150
+MCV_0000900,MCV_0000056,Serrate,Serrate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,151
+MCV_0000901,MCV_0000056,Serrulate,Serrulate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,152
+MCV_0000902,MCV_0000056,Eroded,Eroded,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,411
+MCV_0000903,MCV_0000056,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,412
+MCV_0000904,MCV_0000056,Serrated,Serrated,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,413
+MCV_0000905,MCV_0000056,Sinuate,Sinuate,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,414
+MCV_0000906,MCV_0000056,Wrinkled,Wrinkled,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,415
+MCV_0000907,MCV_0000057,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000908,MCV_0000057,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000909,MCV_0000057,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000910,MCV_0000057,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000911,MCV_0000058,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000912,MCV_0000058,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000913,MCV_0000058,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000914,MCV_0000058,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000915,MCV_0000059,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000916,MCV_0000059,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000917,MCV_0000059,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000918,MCV_0000059,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0000919,MCV_0000060,Central,Central,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,10,153
+MCV_0000920,MCV_0000060,Eccentric - off-center,Eccentric - off-center,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,154
+MCV_0000921,MCV_0000060,Lateral - attached at margin,Lateral - attached at margin,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,155
+MCV_0000922,MCV_0000060,Sessile - missing,Sessile - missing,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,156
+MCV_0000923,MCV_0000065,Abruptly bulbous,Abruptly bulbous,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,157
+MCV_0000924,MCV_0000065,Clavate (club),Clavate (club),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,158
+MCV_0000925,MCV_0000065,Compressed (flattened),Compressed (flattened),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,159
+MCV_0000926,MCV_0000065,Equal,Equal,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,2,160
+MCV_0000927,MCV_0000065,Flexuous,Flexous,proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,161
+MCV_0000928,MCV_0000065,Marginate,Marginate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,162
+MCV_0000929,MCV_0000065,Oblique (angle),Oblique (angle),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,163
+MCV_0000930,MCV_0000065,"Radicating (w/""root"")","Radicating (w/""root"")",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,164
+MCV_0000931,MCV_0000065,Rounded,Rounded,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,165
+MCV_0000932,MCV_0000065,Tapering,Tapering,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,166
+MCV_0000933,MCV_0000065,Terete (round),Terete (round),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,167
+MCV_0000934,MCV_0000065,Ventricose Fusiform,Ventricose Fusiform,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,168
+MCV_0000935,MCV_0000073,Areolate,Areolate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,169
+MCV_0000936,MCV_0000073,Banded,Banded,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,170 416
+MCV_0000937,MCV_0000073,Canescent - Hairy,Canescent - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,171
+MCV_0000938,MCV_0000073,Fibrillose,Fibrillose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,172
+MCV_0000939,MCV_0000073,Fibrous,Fibrous,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,173
+MCV_0000940,MCV_0000073,Floccose - Hairy,Floccose - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,174
+MCV_0000941,MCV_0000073,Furfuraceous,Furfuraceous,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,175
+MCV_0000942,MCV_0000073,Glabrous - Hairy,Glabrous - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,176
+MCV_0000943,MCV_0000073,Glandular-dotted (w/dark sticky dots),Glanular-dotted (w/dark sticky dots),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,177
+MCV_0000944,MCV_0000073,Glutinous,Glutinous,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,178
+MCV_0000945,MCV_0000073,Granulose,Granulose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,179
+MCV_0000946,MCV_0000073,Hirsute - Hairy,Hirsute - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,180
+MCV_0000947,MCV_0000073,Hispid - Hairy,Hispid - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,181
+MCV_0000948,MCV_0000073,Hygrophanous,Hygrophanous,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,182
+MCV_0000949,MCV_0000073,Laccate,Laccate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,183
+MCV_0000950,MCV_0000073,Lacunose (w/dp.grooves),Lacunose (w/dp.grooves),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,184
+MCV_0000951,MCV_0000073,Longitudinally striate,Longitudinally striate; Longtidunally Striate,proposed,"in the list, shown once for two written forms",,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,185 420
+MCV_0000952,MCV_0000073,Peronate,Peronate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,186 422
+MCV_0000953,MCV_0000073,Pruinose,Pruinose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,1,187
+MCV_0000954,MCV_0000073,Pubescent - Hairy,Pubescent - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,188
+MCV_0000955,MCV_0000073,Pulverulent,Pulverulent,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,189
+MCV_0000956,MCV_0000073,Punctate (w/small dots),Punctuate (w/small dots),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,1,190
+MCV_0000957,MCV_0000073,Reticulate (fishnet),Reticulate (fishnet),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,191
+MCV_0000958,MCV_0000073,Ribbed/Costate,Ribbed/Costate; Ribbed [Costate],proposed,"in the list, shown once for two written forms",,,Easy Guide to Mushrooms Descriptions; Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,192 426
+MCV_0000959,MCV_0000073,Rimose,Rimose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,193
+MCV_0000960,MCV_0000073,Rivulose,Rivulose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,194
+MCV_0000961,MCV_0000073,Rugose,Rugose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,195
+MCV_0000962,MCV_0000073,Rugulose,Rugulose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,196
+MCV_0000963,MCV_0000073,Scabrous (scabby),Scabrous (scabby),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,197
+MCV_0000964,MCV_0000073,Scrobiculate,Scrobiculate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,198
+MCV_0000965,MCV_0000073,Sericeous,Sericeous,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,199
+MCV_0000966,MCV_0000073,Smooth,Smooth,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms; https://mycologyst.art/mushroom-identification/mushroom-morphology,1,200 428
+MCV_0000967,MCV_0000073,Squamose,Squamose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,201
+MCV_0000968,MCV_0000073,Squarrose,Squarrose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,202
+MCV_0000969,MCV_0000073,Strigose - Hairy,Strigose - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,203
+MCV_0000970,MCV_0000073,Tomentose - Hairy,Tomentose - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,204
+MCV_0000971,MCV_0000073,Uneven,Uneven,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,205
+MCV_0000972,MCV_0000073,Velvety - Hairy,Velvety - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,206
+MCV_0000973,MCV_0000073,Villose - Hairy,Villose - Hairy,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,207
+MCV_0000974,MCV_0000073,Virgate,Virgate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,208
+MCV_0000975,MCV_0000073,Viscid -,Viscid -,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,209
+MCV_0000976,MCV_0000073,Warty,Warty,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,210
+MCV_0000977,MCV_0000073,Zonate,Zonate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,211
+MCV_0000978,MCV_0000073,Fibrose,Fibrose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,417
+MCV_0000979,MCV_0000073,Glandular-Dotted,Glandular-Dotted,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,418
+MCV_0000980,MCV_0000073,Lacunose,Lacunose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,419
+MCV_0000981,MCV_0000073,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,421
+MCV_0000982,MCV_0000073,Pruinose [Powdery],Pruinose [Powdery],proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,423
+MCV_0000983,MCV_0000073,Punctate,Punctate,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,424
+MCV_0000984,MCV_0000073,Reticulate,Reticulate,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,425
+MCV_0000985,MCV_0000073,Scabrous,Scabrous,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,427
+MCV_0000986,MCV_0000073,Speckled,Speckled,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,429
+MCV_0000987,MCV_0000074,Breaking with a snap,Breaking with a snap,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,212
+MCV_0000988,MCV_0000074,Cartilaginous,Cartilaginous,proposed,in the list as written,yes,How to Identify Mushrooms to Genus I:  Macroscopic Features,How to Identify Mushrooms to Genus I:  Macroscopic Features,0,213
+MCV_0000989,MCV_0000074,Chalky,Chalky,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,214
+MCV_0000990,MCV_0000074,Corky,Corky,proposed,in the list as written,,,How to Identify Mushrooms to Genus I:  Macroscopic Features,0,215
+MCV_0000991,MCV_0000074,Fibrous (Fleshy-Fibrous),Fibrous (Fleshy-Fibrous),proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,216
+MCV_0000992,MCV_0000074,Firm,Firm,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,217
+MCV_0000993,MCV_0000074,Fragile,Fragile,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,218
+MCV_0000994,MCV_0000074,Leathery (coriaceous),Leathery (coriaceous),proposed,in the list as written,,,How to Identify Mushrooms to Genus I:  Macroscopic Features,0,219
+MCV_0000995,MCV_0000074,Pliable,Pliable,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,220
+MCV_0000996,MCV_0000074,Rigid,Rigid,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,221
+MCV_0000997,MCV_0000074,Woody,Woody,proposed,in the list as written,,,How to Identify Mushrooms to Genus I:  Macroscopic Features,0,222
+MCV_0000998,MCV_0000075,Cavernous,Cavernous,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,223
+MCV_0000999,MCV_0000075,Hollow - fistulose,Hollow - fistulose,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,224
+MCV_0001000,MCV_0000075,Solid,Solid,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,225
+MCV_0001001,MCV_0000075,Stuffed with pith,Stuffed with pith,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,226
+MCV_0001002,MCV_0000075,Tubular,Tubular,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,227
+MCV_0001003,MCV_0000075,Broadly fistulose,Broadly fistulose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,430
+MCV_0001004,MCV_0000075,Centrally solid,Centrally solid,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,2,431
+MCV_0001005,MCV_0000075,Chambered,Chambered,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,432
+MCV_0001006,MCV_0000075,Fistulose,Fistulose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,433
+MCV_0001007,MCV_0000075,hollow,hollow,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,434
+MCV_0001008,MCV_0000075,Partially stuffed/partially hollow,Partially stuffed/partially hollow,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,435
+MCV_0001009,MCV_0000075,Stuffed (w/hyphae),Stuffed (w/hyphae),proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,436
+MCV_0001010,MCV_0000076,Apical,Apical,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,228
+MCV_0001011,MCV_0000076,Basal,Basal,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,229
+MCV_0001012,MCV_0000076,Inferior,Inferior,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,230
+MCV_0001013,MCV_0000076,Median,Median,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,231
+MCV_0001014,MCV_0000076,None,None,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,10,232
+MCV_0001015,MCV_0000076,Superior,Superior,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,233
+MCV_0001016,MCV_0000079,Cortinate (cobwebby),Cortinate (cobwebby),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,234
+MCV_0001017,MCV_0000079,Fibrillose (thready),Fibillose (thready),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,235
+MCV_0001018,MCV_0000079,Gelatinous (slimy),Gelatinous (slimy),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,236
+MCV_0001019,MCV_0000079,Membranous (skin-like),Membranous (skin-like),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,237
+MCV_0001020,MCV_0000080,Disappearing - Evanescent,Disappearing - Evanescent,proposed,in the list as written,yes,Mushrooms Demystified Second Edition,Mushrooms Demystified Second Edition,0,238
+MCV_0001021,MCV_0000080,Persistent,Persistent,proposed,in the list as written,yes,Mushrooms Demystified Second Edition,Mushrooms Demystified Second Edition,0,239
+MCV_0001022,MCV_0000082,"""Cogwheel"" Stellate","""Cogwheel"" Stellate",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,240
+MCV_0001023,MCV_0000082,Cortinate PV & Fibrillose Annular Zone,Cortinate PV & Fibrillose Annular Zone,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,241
+MCV_0001024,MCV_0000082,Doubly-flared Ring,Doubly-flared Ring,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,242
+MCV_0001025,MCV_0000082,Floccose (downy tufts),Floccose (downy tuffs),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,243
+MCV_0001026,MCV_0000082,Pendant (hanging),Pendant (hanging),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,244
+MCV_0001027,MCV_0000082,"Peronate (w/""boot"")","Peronate (w/""boot"")",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,245
+MCV_0001028,MCV_0000082,Single Ring thick on edge,Single Ring thick on edge,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,246
+MCV_0001029,MCV_0000082,Subperonate,Subperonate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,247
+MCV_0001030,MCV_0000082,Two Rings (from 2 veils),Two Rings (from 2 veils),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,248
+MCV_0001031,MCV_0000085,Cleft,Cleft,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,249
+MCV_0001032,MCV_0000085,Collar,Collar,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,250
+MCV_0001033,MCV_0000085,Concentric rings or scales,Concentric rings or scales,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,251
+MCV_0001034,MCV_0000085,"Friable, disappearing","Friable, disappearing",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,252
+MCV_0001035,MCV_0000085,Fusiform,Fusiform,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,253
+MCV_0001036,MCV_0000085,Granular,Granular,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,254
+MCV_0001037,MCV_0000085,Marginate-depressed,Marginate-depressed,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,255
+MCV_0001038,MCV_0000085,Napiform (turnip),Napiform (turnip),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,256
+MCV_0001039,MCV_0000085,Saccate,Saccate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,257
+MCV_0001040,MCV_0000085,Sheathing,Sheathing,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,258
+MCV_0001041,MCV_0000091,Coprophilous (on dung) what kind?,Coprophious (on dung) what kind?,proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,259
+MCV_0001042,MCV_0000091,fungicolous,fungicolous,proposed,in the list as written,yes,How to Identify Mushrooms to Genus I:  Macroscopic Features,How to Identify Mushrooms to Genus I:  Macroscopic Features,0,260
+MCV_0001043,MCV_0000091,"Humicolous (on humus, duff) - conifer, other?","Humicolous (on humus, duff) - conifer, other?",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,261
+MCV_0001044,MCV_0000091,"In forest - conifer, hardwood, mixed?","In forest - conifer, hardwood, mixed?",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,262
+MCV_0001045,MCV_0000091,"In grassy area - lawn, pasture, etc?","In grassy area - lawn, pasture, etc?",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,263
+MCV_0001046,MCV_0000091,Lignicolous (on wood) - what kind of tree?,Lignicolous (on wood) - what kind of tree?,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,264
+MCV_0001047,MCV_0000091,Terrestrial (on soil - bare),Terrestrial (on soil - bare ),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,265
+MCV_0001048,MCV_0000091,Terrestrial (on soil - burned),Terrestrial (on soil - burned ),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,266
+MCV_0001049,MCV_0000091,Terrestrial (on soil - disturbed),Terrestrial (on soil - disturbed ),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,267
+MCV_0001050,MCV_0000092,Loam,Loam,proposed,in the list as written,,,Introductory Mycology,0,268
+MCV_0001051,MCV_0000092,Unknown,Unknown,proposed,in the list as written,,,Introductory Mycology,0,269
+MCV_0001052,MCV_0000098,"Ammonia (NH4OH, Ammonium Hydroxide)","Ammonia (NH4OH, Ammonium Hydroxide)",proposed,in the list as written,,,www.mushroomexpert.com/index.html,0,270
+MCV_0001053,MCV_0000098,KOH (Potassium Hydroxide) - 3%,KOH (Potassium Hydroxide) - 3%,proposed,in the list as written,,,www.mushroomexpert.com/index.html,0,271
+MCV_0001054,MCV_0000114,Apical,Apical,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,272
+MCV_0001055,MCV_0000114,Basal,Basal,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,273
+MCV_0001056,MCV_0000114,Inferior,Inferior,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,274
+MCV_0001057,MCV_0000114,Median,Median,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,275
+MCV_0001058,MCV_0000114,Superior,Superior,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,276
+MCV_0001059,MCV_0000115,Herbarium,Herbarium,proposed,in the list as written,,,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,277
+MCV_0001060,MCV_0000115,Observation Only - No specimen collected,Observation Only - No specimen collected,proposed,in the list as written,,,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,278
+MCV_0001061,MCV_0000115,Specimen Collector,Specimen Collector,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,279
+MCV_0001062,MCV_0000116,Cups,Cups,proposed,in the list as written,,,Introductory Mycology,0,280
+MCV_0001063,MCV_0000116,Lamella - Gills,Lamella - Gills,proposed,in the list as written,,,Introductory Mycology,9,281
+MCV_0001064,MCV_0000116,Pores,Pores,proposed,in the list as written,,,Introductory Mycology,2,282
+MCV_0001065,MCV_0000116,Stinkhorn,Stinkhorn,proposed,in the list as written,,,Introductory Mycology,0,283
+MCV_0001066,MCV_0000116,Teeth,Teeth,proposed,in the list as written,,,Introductory Mycology,0,284
+MCV_0001067,MCV_0000117,"""Cogwheel"" Stellate","""Cogwheel"" Stellate",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,285
+MCV_0001068,MCV_0000117,Cortinate PV & Fibrillose Annular Zone,Cortinate PV & Fibrillose Annular Zone,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,286
+MCV_0001069,MCV_0000117,Doubly-flared Ring,Doubly-flared Ring,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,287
+MCV_0001070,MCV_0000117,Floccose (downy tufts),Floccose (downy tuffs),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,288
+MCV_0001071,MCV_0000117,Pendant (hanging),Pendant (hanging),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,289
+MCV_0001072,MCV_0000117,"Peronate (w/""boot"")","Peronate (w/""boot"")",proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,290
+MCV_0001073,MCV_0000117,Single Ring thick on edge,Single Ring thick on edge,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,291
+MCV_0001074,MCV_0000117,Subperonate,Subperonate,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,292
+MCV_0001075,MCV_0000117,Two Rings (from 2 veils),Two Rings (from 2 veils),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,293
+MCV_0001076,MCV_0000118,Disappearing,Disappearing,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,294
+MCV_0001077,MCV_0000118,Leaving fragments on cap,Leaving fragments on cap,proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,295
+MCV_0001078,MCV_0000119,Cortinate (cobwebby),Cortinate (cobwebby),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,296
+MCV_0001079,MCV_0000119,Fibrillose (thready),Fibillose (thready),proposed,"in the list, spelling corrected",,,Easy Guide to Mushrooms Descriptions,0,297
+MCV_0001080,MCV_0000119,Gelatinous (slimy),Gelatinous (slimy),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,298
+MCV_0001081,MCV_0000119,Membranous (skin-like),Membranous (skin-like),proposed,in the list as written,,,Easy Guide to Mushrooms Descriptions,0,299
+MCV_0001082,MCV_0000120,Cortinate,Cortinate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,300
+MCV_0001083,MCV_0000120,Double Rings,Double Rings,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,301
+MCV_0001084,MCV_0000120,Flaring,Flaring,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,302
+MCV_0001085,MCV_0000120,Floccose,Floccose,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,303
+MCV_0001086,MCV_0000120,Pendant,Pendant,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,304
+MCV_0001087,MCV_0000120,Peronate,Peronate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,305
+MCV_0001088,MCV_0000120,Ring Zone,Ring Zone,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,306
+MCV_0001089,MCV_0000120,Stellate,Stellate,proposed,in the list as written,yes,https://mycologyst.art/mushroom-identification/mushroom-morphology,https://mycologyst.art/mushroom-identification/mushroom-morphology,0,307
+MCV_0001090,MCV_0000121,Annulus,Annulus,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,308
+MCV_0001091,MCV_0000121,basidiocarp,basidiocarp,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,309
+MCV_0001092,MCV_0000121,campanulate,campanulate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,310
+MCV_0001093,MCV_0000121,cone,cone,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,311
+MCV_0001094,MCV_0000121,conic,conic,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,312
+MCV_0001095,MCV_0000121,convex,convex,proposed,in the list as written,yes,Introductory Mycology,Introductory Mycology,0,313
+MCV_0001096,MCV_0000121,cylindric,cylindric,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,314
+MCV_0001097,MCV_0000121,disc,disc,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,315
+MCV_0001098,MCV_0000121,epigeous,epigeous,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,316
+MCV_0001099,MCV_0000121,Gills,Gills,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,317
+MCV_0001100,MCV_0000121,hypogeous,hypogeous,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,318
+MCV_0001101,MCV_0000121,margin,margin,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,319
+MCV_0001102,MCV_0000121,mushroom,mushroom,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,320
+MCV_0001103,MCV_0000121,ovoid,ovoid,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,321
+MCV_0001104,MCV_0000121,parabolic,parabolic,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,322
+MCV_0001105,MCV_0000121,pileus,pileus,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,323
+MCV_0001106,MCV_0000121,plane,plane,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,324
+MCV_0001107,MCV_0000121,pulvinate,pulvinate,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,325
+MCV_0001108,MCV_0000121,ring,ring,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,326
+MCV_0001109,MCV_0000121,sporocarp,sporocarp,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,327
+MCV_0001110,MCV_0000121,stem,stem,proposed,in the list as written,yes,Easy Guide to Mushrooms Descriptions,Easy Guide to Mushrooms Descriptions,0,328
+MCV_0001111,MCV_0000121,Stipe,Stipe,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,329
+MCV_0001112,MCV_0000121,thallus,thallus,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,330
+MCV_0001113,MCV_0000121,Volva,Volva,proposed,in the list as written,yes,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,Ainsworth & Bisbys Dictionary of the Fungi 10th Edition,0,331
+MCV_0001114,MCV_0000124,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001115,MCV_0000124,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001116,MCV_0000124,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001117,MCV_0000124,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001118,MCV_0000125,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001119,MCV_0000125,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001120,MCV_0000125,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001121,MCV_0000125,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001122,MCV_0000126,Indented,Indented,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,3,359
+MCV_0001123,MCV_0000126,Nearly perforated,Nearly perforated,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,360
+MCV_0001124,MCV_0000126,Perforated,Perforated,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,361
+MCV_0001125,MCV_0000127,Darker,Darker,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,362
+MCV_0001126,MCV_0000127,Lighter,Lighter,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,363
+MCV_0001127,MCV_0000129,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001128,MCV_0000129,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001129,MCV_0000129,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001130,MCV_0000129,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001131,MCV_0000138,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001132,MCV_0000138,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001133,MCV_0000138,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001134,MCV_0000138,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001135,MCV_0000152,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001136,MCV_0000152,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001137,MCV_0000152,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001138,MCV_0000152,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001139,MCV_0000153,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001140,MCV_0000153,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001141,MCV_0000153,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001142,MCV_0000153,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001143,MCV_0000154,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001144,MCV_0000154,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001145,MCV_0000154,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001146,MCV_0000154,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001147,MCV_0000157,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001148,MCV_0000157,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001149,MCV_0000157,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001150,MCV_0000157,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001151,MCV_0000163,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001152,MCV_0000163,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001153,MCV_0000163,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001154,MCV_0000163,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001155,MCV_0000164,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001156,MCV_0000164,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001157,MCV_0000164,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001158,MCV_0000164,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001159,MCV_0000167,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001160,MCV_0000167,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001161,MCV_0000167,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001162,MCV_0000167,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001163,MCV_0000174,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001164,MCV_0000174,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001165,MCV_0000174,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001166,MCV_0000174,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001167,MCV_0000177,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001168,MCV_0000177,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001169,MCV_0000177,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001170,MCV_0000177,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001171,MCV_0000182,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001172,MCV_0000182,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001173,MCV_0000182,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001174,MCV_0000182,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001175,MCV_0000183,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001176,MCV_0000183,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001177,MCV_0000183,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001178,MCV_0000183,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001179,MCV_0000193,Consistently Straight,Consistently Straight,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,437
+MCV_0001180,MCV_0000193,Extremely flexuose,Extremely flexuose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,438
+MCV_0001181,MCV_0000193,Flexuose,Flexuose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,439
+MCV_0001182,MCV_0000193,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,440
+MCV_0001183,MCV_0000193,Somewhat flexuose,Somewhat flexuose,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,1,441
+MCV_0001184,MCV_0000193,Straight,Straight,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,2,442
+MCV_0001185,MCV_0000204,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001186,MCV_0000204,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001187,MCV_0000204,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001188,MCV_0000204,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001189,MCV_0000207,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001190,MCV_0000207,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001191,MCV_0000207,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001192,MCV_0000207,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001193,MCV_0000208,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001194,MCV_0000208,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001195,MCV_0000208,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001196,MCV_0000208,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001197,MCV_0000209,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001198,MCV_0000209,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001199,MCV_0000209,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001200,MCV_0000209,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001201,MCV_0000210,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001202,MCV_0000210,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001203,MCV_0000210,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001204,MCV_0000210,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001205,MCV_0000216,Persistent,,proposed,"added from XDE's list, item 82",,,,0,
+MCV_0001206,MCV_0000216,Disappearing with age,,proposed,"added from XDE's list, item 82",,,,0,
+MCV_0001207,MCV_0000220,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001208,MCV_0000220,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001209,MCV_0000220,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001210,MCV_0000220,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001211,MCV_0000227,Bryophytes,Bryophytes,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,443
+MCV_0001212,MCV_0000227,Decaying wood,Decaying wood,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,444
+MCV_0001213,MCV_0000227,Duff,Duff,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,445
+MCV_0001214,MCV_0000227,Dung,Dung,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,446
+MCV_0001215,MCV_0000227,Grass,Grass,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,4,447
+MCV_0001216,MCV_0000227,Humus,Humus,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,448
+MCV_0001217,MCV_0000227,Leaves,Leaves,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,1,449
+MCV_0001218,MCV_0000227,On soil,On soil,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,2,450
+MCV_0001219,MCV_0000227,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,451
+MCV_0001220,MCV_0000227,Tree Cones,Tree Cones,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,452
+MCV_0001221,MCV_0000227,Tree Needles,Tree Needles,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,453
+MCV_0001222,MCV_0000229,Ectomycorrhizal,Ectomycorrhizal,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,454
+MCV_0001223,MCV_0000229,Endophytic,Endophytic,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,455
+MCV_0001224,MCV_0000229,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,456
+MCV_0001225,MCV_0000229,Parasitic,Parasitic,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,457
+MCV_0001226,MCV_0000229,Saprophytic,Saprophytic,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,458
+MCV_0001227,MCV_0000229,Symbiotic,Symbiotic,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,459
+MCV_0001228,MCV_0000236,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001229,MCV_0000236,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001230,MCV_0000236,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001231,MCV_0000236,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001232,MCV_0000239,Gregarious,,proposed,"added from XDE's list, item 103",,,,0,
+MCV_0001233,MCV_0000239,Solitary,,proposed,"added from XDE's list, item 103",,,,0,
+MCV_0001234,MCV_0000239,Caespitose,,proposed,"added from XDE's list, item 103",,,,0,
+MCV_0001235,MCV_0000239,Connate,,proposed,"added from XDE's list, item 103",,,,0,
+MCV_0001236,MCV_0000239,Imbricate,,proposed,"added from XDE's list, item 103",,,,0,
+MCV_0001237,MCV_0000239,Troops,,proposed,"added from XDE's list, item 103",,,,0,
+MCV_0001238,MCV_0000239,Rings,,proposed,"added from XDE's list, item 103",,,,0,
+MCV_0001239,MCV_0000241,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001240,MCV_0000241,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001241,MCV_0000241,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001242,MCV_0000241,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001243,MCV_0000242,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001244,MCV_0000242,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001245,MCV_0000242,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001246,MCV_0000242,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001247,MCV_0000243,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001248,MCV_0000243,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001249,MCV_0000243,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001250,MCV_0000243,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001251,MCV_0000244,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001252,MCV_0000244,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001253,MCV_0000244,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001254,MCV_0000244,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001255,MCV_0000247,Fragile,Fragile,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,460
+MCV_0001256,MCV_0000247,Normal,Normal,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,461
+MCV_0001257,MCV_0000247,Tough,Tough,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,462
+MCV_0001258,MCV_0000248,Drastic,Drastic,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,463
+MCV_0001259,MCV_0000248,None,None,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,464
+MCV_0001260,MCV_0000248,Subtle,Subtle,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,465
+MCV_0001261,MCV_0000255,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001262,MCV_0000255,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001263,MCV_0000255,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001264,MCV_0000255,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001265,MCV_0000270,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001266,MCV_0000270,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001267,MCV_0000270,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001268,MCV_0000270,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001269,MCV_0000272,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001270,MCV_0000272,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001271,MCV_0000272,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001272,MCV_0000272,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001273,MCV_0000273,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001274,MCV_0000273,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001275,MCV_0000273,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001276,MCV_0000273,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001277,MCV_0000274,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001278,MCV_0000274,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001279,MCV_0000274,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001280,MCV_0000274,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001281,MCV_0000275,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001282,MCV_0000275,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001283,MCV_0000275,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001284,MCV_0000275,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001285,MCV_0000284,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001286,MCV_0000284,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001287,MCV_0000284,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001288,MCV_0000284,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001289,MCV_0000290,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001290,MCV_0000290,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001291,MCV_0000290,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001292,MCV_0000290,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001293,MCV_0000292,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001294,MCV_0000292,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001295,MCV_0000292,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001296,MCV_0000292,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001297,MCV_0000304,Cutis,Cutis,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,484
+MCV_0001298,MCV_0000304,Dry Cutis,Dry Cutis,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,485
+MCV_0001299,MCV_0000304,Hymeniform,Hymeniform,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,486
+MCV_0001300,MCV_0000304,Ixocutis,Ixocutis,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,487
+MCV_0001301,MCV_0000304,Other,Other,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,488
+MCV_0001302,MCV_0000304,Pluristratous Hymeniderm,Pluristratous Hymeniderm,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,489
+MCV_0001303,MCV_0000304,Trichoderm,Trichoderm,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,490
+MCV_0001304,MCV_0000305,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001305,MCV_0000305,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001306,MCV_0000305,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001307,MCV_0000305,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001308,MCV_0000308,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001309,MCV_0000308,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001310,MCV_0000308,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001311,MCV_0000308,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001312,MCV_0000309,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001313,MCV_0000309,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001314,MCV_0000309,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001315,MCV_0000309,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001316,MCV_0000310,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001317,MCV_0000310,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001318,MCV_0000310,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001319,MCV_0000310,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001320,MCV_0000311,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001321,MCV_0000311,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001322,MCV_0000311,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001323,MCV_0000311,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001324,MCV_0000320,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001325,MCV_0000320,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001326,MCV_0000320,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001327,MCV_0000320,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001328,MCV_0000324,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001329,MCV_0000324,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001330,MCV_0000324,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001331,MCV_0000324,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001332,MCV_0000334,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001333,MCV_0000334,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001334,MCV_0000334,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001335,MCV_0000334,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001336,MCV_0000337,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001337,MCV_0000337,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001338,MCV_0000337,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001339,MCV_0000337,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001340,MCV_0000340,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001341,MCV_0000340,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001342,MCV_0000340,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001343,MCV_0000340,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001344,MCV_0000346,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001345,MCV_0000346,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001346,MCV_0000346,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001347,MCV_0000346,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001348,MCV_0000351,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001349,MCV_0000351,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001350,MCV_0000351,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001351,MCV_0000351,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001352,MCV_0000357,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001353,MCV_0000357,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001354,MCV_0000357,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001355,MCV_0000357,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001356,MCV_0000362,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001357,MCV_0000362,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001358,MCV_0000362,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001359,MCV_0000362,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001360,MCV_0000371,Convergent,Convergent,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,491
+MCV_0001361,MCV_0000371,Divergent (Bilateral) & Multi-Sized,Divergent (Bilateral) & Multi-Sized,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,492
+MCV_0001362,MCV_0000371,Divergent [Bilateral],Divergent [Bilateral],proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,493
+MCV_0001363,MCV_0000371,Interwoven,Interwoven,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,494
+MCV_0001364,MCV_0000371,Parallel,Parallel,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,495
+MCV_0001365,MCV_0000371,Subcellular,Subcellular,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,496
+MCV_0001366,MCV_0000371,Subregular,Subregular,proposed,in the list as written,,,Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms,0,497
+MCV_0001367,MCV_0000373,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001368,MCV_0000373,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001369,MCV_0000373,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001370,MCV_0000373,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001371,MCV_0000375,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001372,MCV_0000375,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001373,MCV_0000375,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001374,MCV_0000375,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001375,MCV_0000376,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001376,MCV_0000376,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001377,MCV_0000376,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001378,MCV_0000376,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001379,MCV_0000377,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001380,MCV_0000377,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001381,MCV_0000377,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001382,MCV_0000377,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001383,MCV_0000378,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001384,MCV_0000378,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001385,MCV_0000378,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001386,MCV_0000378,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001387,MCV_0000379,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001388,MCV_0000379,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001389,MCV_0000379,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001390,MCV_0000379,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001391,MCV_0000382,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001392,MCV_0000382,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001393,MCV_0000382,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001394,MCV_0000382,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001395,MCV_0000386,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001396,MCV_0000386,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001397,MCV_0000386,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001398,MCV_0000386,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001399,MCV_0000389,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001400,MCV_0000389,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001401,MCV_0000389,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001402,MCV_0000389,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001403,MCV_0000393,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001404,MCV_0000393,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001405,MCV_0000393,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001406,MCV_0000393,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001407,MCV_0000397,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001408,MCV_0000397,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001409,MCV_0000397,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001410,MCV_0000397,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001411,MCV_0000401,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001412,MCV_0000401,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001413,MCV_0000401,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001414,MCV_0000401,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001415,MCV_0000405,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001416,MCV_0000405,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001417,MCV_0000405,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001418,MCV_0000405,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001419,MCV_0000416,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001420,MCV_0000416,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001421,MCV_0000416,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001422,MCV_0000416,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001423,MCV_0000417,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001424,MCV_0000417,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001425,MCV_0000417,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001426,MCV_0000417,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001427,MCV_0000418,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001428,MCV_0000418,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001429,MCV_0000418,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001430,MCV_0000418,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001431,MCV_0000421,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001432,MCV_0000421,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001433,MCV_0000421,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001434,MCV_0000421,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001435,MCV_0000424,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001436,MCV_0000424,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001437,MCV_0000424,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001438,MCV_0000424,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001439,MCV_0000426,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001440,MCV_0000426,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001441,MCV_0000426,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001442,MCV_0000426,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001443,MCV_0000428,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001444,MCV_0000428,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001445,MCV_0000428,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001446,MCV_0000428,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001447,MCV_0000430,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001448,MCV_0000430,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001449,MCV_0000430,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001450,MCV_0000430,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001451,MCV_0000432,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001452,MCV_0000432,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001453,MCV_0000432,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001454,MCV_0000432,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001455,MCV_0000434,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001456,MCV_0000434,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001457,MCV_0000434,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001458,MCV_0000434,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001459,MCV_0000436,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001460,MCV_0000436,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001461,MCV_0000436,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001462,MCV_0000436,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001463,MCV_0000438,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001464,MCV_0000438,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001465,MCV_0000438,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001466,MCV_0000438,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001467,MCV_0000440,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001468,MCV_0000440,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001469,MCV_0000440,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001470,MCV_0000440,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001471,MCV_0000442,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001472,MCV_0000442,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001473,MCV_0000442,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001474,MCV_0000442,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001475,MCV_0000444,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001476,MCV_0000444,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001477,MCV_0000444,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001478,MCV_0000444,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001479,MCV_0000446,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001480,MCV_0000446,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001481,MCV_0000446,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001482,MCV_0000446,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001483,MCV_0000448,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001484,MCV_0000448,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001485,MCV_0000448,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001486,MCV_0000448,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001487,MCV_0000450,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001488,MCV_0000450,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001489,MCV_0000450,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001490,MCV_0000450,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001491,MCV_0000452,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001492,MCV_0000452,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001493,MCV_0000452,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001494,MCV_0000452,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001495,MCV_0000454,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001496,MCV_0000454,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001497,MCV_0000454,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001498,MCV_0000454,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001499,MCV_0000456,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001500,MCV_0000456,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001501,MCV_0000456,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001502,MCV_0000456,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001503,MCV_0000458,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001504,MCV_0000458,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001505,MCV_0000458,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001506,MCV_0000458,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001507,MCV_0000460,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001508,MCV_0000460,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001509,MCV_0000460,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001510,MCV_0000460,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001511,MCV_0000462,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001512,MCV_0000462,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001513,MCV_0000462,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001514,MCV_0000462,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001515,MCV_0000464,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001516,MCV_0000464,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001517,MCV_0000464,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001518,MCV_0000464,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001519,MCV_0000466,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001520,MCV_0000466,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001521,MCV_0000466,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001522,MCV_0000466,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001523,MCV_0000468,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001524,MCV_0000468,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001525,MCV_0000468,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001526,MCV_0000468,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001527,MCV_0000470,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001528,MCV_0000470,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001529,MCV_0000470,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001530,MCV_0000470,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001531,MCV_0000472,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001532,MCV_0000472,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001533,MCV_0000472,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001534,MCV_0000472,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001535,MCV_0000474,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001536,MCV_0000474,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001537,MCV_0000474,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001538,MCV_0000474,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001539,MCV_0000476,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001540,MCV_0000476,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001541,MCV_0000476,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001542,MCV_0000476,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001543,MCV_0000478,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001544,MCV_0000478,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001545,MCV_0000478,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001546,MCV_0000478,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001547,MCV_0000480,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001548,MCV_0000480,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001549,MCV_0000480,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001550,MCV_0000480,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001551,MCV_0000482,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001552,MCV_0000482,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001553,MCV_0000482,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001554,MCV_0000482,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001555,MCV_0000484,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001556,MCV_0000484,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001557,MCV_0000484,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001558,MCV_0000484,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001559,MCV_0000486,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001560,MCV_0000486,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001561,MCV_0000486,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001562,MCV_0000486,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001563,MCV_0000488,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001564,MCV_0000488,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001565,MCV_0000488,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001566,MCV_0000488,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001567,MCV_0000490,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001568,MCV_0000490,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001569,MCV_0000490,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001570,MCV_0000490,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001571,MCV_0000492,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001572,MCV_0000492,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001573,MCV_0000492,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001574,MCV_0000492,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001575,MCV_0000494,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001576,MCV_0000494,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001577,MCV_0000494,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001578,MCV_0000494,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001579,MCV_0000496,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001580,MCV_0000496,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001581,MCV_0000496,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001582,MCV_0000496,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001583,MCV_0000498,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001584,MCV_0000498,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001585,MCV_0000498,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001586,MCV_0000498,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001587,MCV_0000500,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001588,MCV_0000500,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001589,MCV_0000500,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001590,MCV_0000500,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001591,MCV_0000502,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001592,MCV_0000502,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001593,MCV_0000502,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001594,MCV_0000502,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001595,MCV_0000504,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001596,MCV_0000504,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001597,MCV_0000504,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001598,MCV_0000504,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001599,MCV_0000506,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001600,MCV_0000506,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001601,MCV_0000506,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001602,MCV_0000506,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001603,MCV_0000508,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001604,MCV_0000508,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001605,MCV_0000508,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001606,MCV_0000508,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001607,MCV_0000510,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001608,MCV_0000510,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001609,MCV_0000510,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001610,MCV_0000510,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001611,MCV_0000512,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001612,MCV_0000512,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001613,MCV_0000512,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001614,MCV_0000512,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001615,MCV_0000514,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001616,MCV_0000514,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001617,MCV_0000514,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001618,MCV_0000514,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001619,MCV_0000516,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001620,MCV_0000516,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001621,MCV_0000516,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001622,MCV_0000516,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001623,MCV_0000518,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001624,MCV_0000518,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001625,MCV_0000518,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001626,MCV_0000518,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001627,MCV_0000520,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001628,MCV_0000520,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001629,MCV_0000520,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001630,MCV_0000520,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001631,MCV_0000522,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001632,MCV_0000522,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001633,MCV_0000522,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001634,MCV_0000522,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001635,MCV_0000524,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001636,MCV_0000524,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001637,MCV_0000524,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001638,MCV_0000524,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001639,MCV_0000526,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001640,MCV_0000526,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001641,MCV_0000526,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001642,MCV_0000526,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001643,MCV_0000528,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001644,MCV_0000528,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001645,MCV_0000528,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001646,MCV_0000528,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001647,MCV_0000530,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001648,MCV_0000530,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001649,MCV_0000530,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001650,MCV_0000530,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001651,MCV_0000532,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001652,MCV_0000532,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001653,MCV_0000532,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001654,MCV_0000532,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001655,MCV_0000534,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001656,MCV_0000534,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001657,MCV_0000534,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001658,MCV_0000534,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001659,MCV_0000536,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001660,MCV_0000536,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001661,MCV_0000536,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001662,MCV_0000536,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001663,MCV_0000538,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001664,MCV_0000538,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001665,MCV_0000538,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001666,MCV_0000538,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001667,MCV_0000540,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001668,MCV_0000540,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001669,MCV_0000540,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001670,MCV_0000540,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001671,MCV_0000542,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001672,MCV_0000542,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001673,MCV_0000542,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001674,MCV_0000542,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001675,MCV_0000544,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001676,MCV_0000544,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001677,MCV_0000544,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001678,MCV_0000544,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001679,MCV_0000546,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001680,MCV_0000546,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001681,MCV_0000546,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001682,MCV_0000546,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001683,MCV_0000548,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001684,MCV_0000548,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001685,MCV_0000548,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001686,MCV_0000548,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001687,MCV_0000550,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001688,MCV_0000550,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001689,MCV_0000550,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001690,MCV_0000550,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001691,MCV_0000552,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001692,MCV_0000552,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001693,MCV_0000552,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001694,MCV_0000552,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001695,MCV_0000554,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001696,MCV_0000554,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001697,MCV_0000554,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001698,MCV_0000554,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001699,MCV_0000556,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001700,MCV_0000556,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001701,MCV_0000556,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001702,MCV_0000556,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001703,MCV_0000558,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001704,MCV_0000558,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001705,MCV_0000558,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001706,MCV_0000558,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001707,MCV_0000560,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001708,MCV_0000560,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001709,MCV_0000560,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001710,MCV_0000560,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001711,MCV_0000562,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001712,MCV_0000562,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001713,MCV_0000562,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001714,MCV_0000562,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001715,MCV_0000564,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001716,MCV_0000564,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001717,MCV_0000564,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001718,MCV_0000564,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001719,MCV_0000566,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001720,MCV_0000566,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001721,MCV_0000566,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001722,MCV_0000566,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001723,MCV_0000568,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001724,MCV_0000568,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001725,MCV_0000568,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001726,MCV_0000568,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001727,MCV_0000570,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001728,MCV_0000570,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001729,MCV_0000570,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001730,MCV_0000570,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001731,MCV_0000572,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001732,MCV_0000572,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001733,MCV_0000572,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001734,MCV_0000572,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001735,MCV_0000574,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001736,MCV_0000574,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001737,MCV_0000574,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001738,MCV_0000574,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001739,MCV_0000576,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001740,MCV_0000576,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001741,MCV_0000576,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001742,MCV_0000576,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001743,MCV_0000578,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001744,MCV_0000578,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001745,MCV_0000578,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001746,MCV_0000578,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001747,MCV_0000580,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001748,MCV_0000580,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001749,MCV_0000580,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001750,MCV_0000580,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001751,MCV_0000582,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001752,MCV_0000582,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001753,MCV_0000582,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001754,MCV_0000582,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001755,MCV_0000583,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001756,MCV_0000583,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001757,MCV_0000583,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001758,MCV_0000583,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001759,MCV_0000584,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001760,MCV_0000584,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001761,MCV_0000584,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001762,MCV_0000584,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001763,MCV_0000585,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001764,MCV_0000585,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001765,MCV_0000585,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001766,MCV_0000585,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001767,MCV_0000586,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001768,MCV_0000586,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001769,MCV_0000586,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001770,MCV_0000586,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001771,MCV_0000587,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001772,MCV_0000587,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001773,MCV_0000587,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001774,MCV_0000587,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001775,MCV_0000588,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001776,MCV_0000588,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001777,MCV_0000588,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001778,MCV_0000588,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001779,MCV_0000589,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001780,MCV_0000589,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001781,MCV_0000589,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001782,MCV_0000589,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001783,MCV_0000590,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001784,MCV_0000590,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001785,MCV_0000590,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001786,MCV_0000590,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001787,MCV_0000591,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001788,MCV_0000591,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001789,MCV_0000591,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001790,MCV_0000591,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001791,MCV_0000592,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001792,MCV_0000592,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001793,MCV_0000592,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001794,MCV_0000592,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001795,MCV_0000593,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001796,MCV_0000593,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001797,MCV_0000593,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001798,MCV_0000593,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001799,MCV_0000594,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001800,MCV_0000594,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001801,MCV_0000594,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001802,MCV_0000594,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001803,MCV_0000595,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001804,MCV_0000595,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001805,MCV_0000595,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001806,MCV_0000595,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001807,MCV_0000596,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001808,MCV_0000596,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001809,MCV_0000596,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001810,MCV_0000596,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001811,MCV_0000597,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001812,MCV_0000597,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001813,MCV_0000597,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001814,MCV_0000597,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001815,MCV_0000598,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001816,MCV_0000598,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001817,MCV_0000598,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001818,MCV_0000598,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001819,MCV_0000599,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001820,MCV_0000599,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001821,MCV_0000599,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001822,MCV_0000599,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001823,MCV_0000600,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001824,MCV_0000600,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001825,MCV_0000600,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001826,MCV_0000600,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001827,MCV_0000601,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001828,MCV_0000601,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001829,MCV_0000601,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001830,MCV_0000601,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001831,MCV_0000602,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001832,MCV_0000602,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001833,MCV_0000602,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001834,MCV_0000602,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001835,MCV_0000603,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001836,MCV_0000603,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001837,MCV_0000603,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001838,MCV_0000603,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001839,MCV_0000604,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001840,MCV_0000604,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001841,MCV_0000604,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001842,MCV_0000604,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001843,MCV_0000605,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001844,MCV_0000605,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001845,MCV_0000605,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001846,MCV_0000605,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001847,MCV_0000606,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001848,MCV_0000606,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001849,MCV_0000606,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001850,MCV_0000606,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001851,MCV_0000607,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001852,MCV_0000607,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001853,MCV_0000607,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001854,MCV_0000607,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001855,MCV_0000620,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001856,MCV_0000620,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001857,MCV_0000620,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001858,MCV_0000620,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001859,MCV_0000621,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001860,MCV_0000621,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001861,MCV_0000621,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001862,MCV_0000621,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001863,MCV_0000622,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001864,MCV_0000622,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001865,MCV_0000622,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001866,MCV_0000622,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001867,MCV_0000623,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001868,MCV_0000623,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001869,MCV_0000623,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001870,MCV_0000623,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001871,MCV_0000624,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001872,MCV_0000624,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001873,MCV_0000624,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001874,MCV_0000624,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001875,MCV_0000625,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001876,MCV_0000625,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001877,MCV_0000625,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001878,MCV_0000625,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001879,MCV_0000626,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001880,MCV_0000626,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001881,MCV_0000626,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001882,MCV_0000626,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001883,MCV_0000627,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001884,MCV_0000627,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001885,MCV_0000627,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001886,MCV_0000627,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001887,MCV_0000628,Circular,,proposed,"added from XDE's list, item 217",,,,0,
+MCV_0001888,MCV_0000628,Filamentous,,proposed,"added from XDE's list, item 217",,,,0,
+MCV_0001889,MCV_0000628,Aerial,,proposed,"added from XDE's list, item 217",,,,0,
+MCV_0001890,MCV_0000628,Appressed,,proposed,"added from XDE's list, item 217",,,,0,
+MCV_0001891,MCV_0000628,Cottony,,proposed,"added from XDE's list, item 217",,,,0,
+MCV_0001892,MCV_0000628,Rhizomorphic,,proposed,"added from XDE's list, item 217",,,,0,
+MCV_0001893,MCV_0000632,Smooth,,proposed,"added from XDE's list, item 221",,,,0,
+MCV_0001894,MCV_0000632,Glistening,,proposed,"added from XDE's list, item 221",,,,0,
+MCV_0001895,MCV_0000632,Rough,,proposed,"added from XDE's list, item 221",,,,0,
+MCV_0001896,MCV_0000632,Wrinkled,,proposed,"added from XDE's list, item 221",,,,0,
+MCV_0001897,MCV_0000632,Dull,,proposed,"added from XDE's list, item 221",,,,0,
+MCV_0001898,MCV_0000633,Transparent (clear),,proposed,"added from XDE's list, item 222",,,,0,
+MCV_0001899,MCV_0000633,Opaque,,proposed,"added from XDE's list, item 222",,,,0,
+MCV_0001900,MCV_0000633,Translucent,,proposed,"added from XDE's list, item 222",,,,0,
+MCV_0001901,MCV_0000643,Yes,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001902,MCV_0000643,No,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001903,MCV_0000643,Unknown,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0001904,MCV_0000643,Not Tested,,proposed,"added: one of Yes, No, Unknown, Not Tested",,,,0,
+MCV_0002165,MCV_0000670,Random,,proposed,"added from XDE's list, item 34",,,,0,
+MCV_0002166,MCV_0000670,In tiers,,proposed,"added from XDE's list, item 34",,,,0,
+MCV_0002167,MCV_0000670,Only occurring near the cap margin,,proposed,"added from XDE's list, item 34",,,,0,

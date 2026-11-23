@@ -1,0 +1,139 @@
+record,mrdbid_key,id,name_as_stored,name_corrected,kind,basis
+character,86,MCV_0000102,soil ph,soil pH,capital letters,The standard way to write it.
+character,90,MCV_0000106,mycobank name,MycoBank name,capital letters,The site's own name.
+character,91,MCV_0000107,inaturalist num,iNaturalist num,capital letters,The site's own name.
+character,92,MCV_0000108,mushroom observer num,Mushroom Observer num,capital letters,The site's own name.
+character,133,MCV_0000143,pileus rolled up presence reveals lamellaes curled up,pileus rolled up presence reveals lamellae curled up,spelling,The plural of lamella is lamellae.
+character,140,MCV_0000147,lamellae edges exhibit gelantinour pallid thickish thread,lamellae edges exhibit gelatinous pallid thickish thread,spelling,XDE item 28 writes 'gelatinous'.
+character,189,MCV_0000190,stipe basal mycelium cell amiloidity,stipe basal mycelium cell amyloidity,spelling,XDE's own slip (item 62); his item 192 writes 'amyloid'. The noun is in no general dictionary; it is the word in use in the mycological literature.
+character,209,MCV_0000210,stipe volva oxonium present,stipe volva ozonium present,spelling,XDE item 76: 'The presence of an ozonium'.
+character,249,MCV_0000243,deliquesence present,deliquescence present,spelling,XDE's own slip (item 107).
+character,261,MCV_0000255,fluorescent reaction ultraviolent light present,fluorescent reaction ultraviolet light present,spelling,XDE item 115 writes 'ultraviolet'.
+character,274,MCV_0000267,grow light uv spectrum response,grow light UV spectrum response,capital letters,An abbreviation; XDE writes UV.
+character,282,MCV_0000275,lamellaes guttation drops present,lamellae guttation drops present,spelling,The plural of lamella is lamellae.
+character,285,MCV_0000278,lamellaes guttation drops color,lamellae guttation drops color,spelling,The plural of lamella is lamellae.
+character,288,MCV_0000281,lamellaes guttation drops abundance,lamellae guttation drops abundance,spelling,The plural of lamella is lamellae.
+character,300,MCV_0000293,automate micaceous structures,atomate micaceous structures,spelling,XDE's own slip: item 141 writes 'Automate and micaceous structures'; his item 12 writes 'Atomate' beside 'Micaceous'. The FunKey glossary has the entry atomate.
+character,301,MCV_0000294,color reaction nh4oh,color reaction NH4OH,capital letters,A chemical formula; XDE writes NH4OH.
+character,302,MCV_0000295,color reaction koh,color reaction KOH,capital letters,A chemical formula; XDE writes KOH.
+character,303,MCV_0000296,color reaction feso4,color reaction FeSO4,capital letters,A chemical formula; XDE writes FeSO4.
+character,304,MCV_0000297,color reaction pdab,color reaction PDAB,capital letters,An abbreviation; XDE writes PDAB.
+character,306,MCV_0000299,color reaction schaeffer,color reaction Schaeffer,capital letters,A person's name.
+character,307,MCV_0000300,color reaction guiac,color reaction guaiac,spelling,XDE item 148 writes 'Guaiac'.
+character,308,MCV_0000301,color reaction weiland meixner,color reaction Wieland-Meixner,spelling,XDE's own slip: item 149 writes 'Weiland-Meixner Test'. The test is named for Wieland. XDE's hyphen between the two names is kept.
+character,315,MCV_0000306,pelei cystidia size,pilei cystidia size,spelling,XDE item 156 writes 'pilei cystidia'.
+character,316,MCV_0000307,pelei cystidia form,pilei cystidia form,spelling,XDE item 156 writes 'pilei cystidia'.
+character,383,MCV_0000373,lamellae droplets quttules within spore present,lamellae droplets guttules within spore present,spelling,XDE item 170 writes 'guttules'.
+character,384,MCV_0000374,lamellae droplets quttules within spore quantity,lamellae droplets guttules within spore quantity,spelling,XDE item 170 writes 'guttules'.
+character,409,MCV_0000397,stipe more characters mycelia cystidia present,stipe more characters mycelial cystidia present,spelling,XDE item 180 writes 'mycelial cystidia'.
+character,410,MCV_0000398,stipe more characters mycelia cystidia form,stipe more characters mycelial cystidia form,spelling,XDE item 180 writes 'mycelial cystidia'.
+character,411,MCV_0000399,stipe more characters mycelia cystidia width,stipe more characters mycelial cystidia width,spelling,XDE item 180 writes 'mycelial cystidia'.
+character,412,MCV_0000400,stipe more characters mycelia cystidia height,stipe more characters mycelial cystidia height,spelling,XDE item 180 writes 'mycelial cystidia'.
+character,424,MCV_0000412,stipe more characters cell chemical reaction test koh,stipe more characters cell chemical reaction test KOH,capital letters,A chemical formula; XDE writes KOH.
+character,425,MCV_0000413,stipe more characters cell chemical reaction test lugols,stipe more characters cell chemical reaction test Lugol's,capital letters,A person's name; XDE writes Lugol's.
+character,427,MCV_0000415,stipe more characters melzers,stipe more characters Melzer's,capital letters,A person's name; XDE writes Melzer's.
+character,430,MCV_0000417,stipe more characters acanthocytesPresent,stipe more characters acanthocytes present,spelling,Two words run together.
+character,436,MCV_0000423,chemical tests melzers,chemical tests Melzer's,capital letters,A person's name; XDE writes Melzer's.
+character,447,MCV_0000434,1 methylpsilocin present,1-methylpsilocin present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,448,MCV_0000435,1 methylpsilocin quantity,1-methylpsilocin quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,449,MCV_0000436,4 chloroindole 3 acetic acid 4 CI IAA present,4-chloroindole-3-acetic acid (4-Cl-IAA) present,spelling settled,"XDE's own slip: a capital I for the l of Cl, chlorine. The registry lists 4-Cl-IAA for this compound."
+character,450,MCV_0000437,4 chloroindole 3 acetic acid 4 CI IAA quantity,4-chloroindole-3-acetic acid (4-Cl-IAA) quantity,spelling settled,"XDE's own slip: a capital I for the l of Cl, chlorine. The registry lists 4-Cl-IAA for this compound."
+character,451,MCV_0000438,4 hydroxytryptophan present,4-hydroxytryptophan present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,452,MCV_0000439,4 hydroxytryptophan quantity,4-hydroxytryptophan quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,453,MCV_0000440,4 hydroxytryptamine present,4-hydroxytryptamine present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,454,MCV_0000441,4 hydroxytryptamine quantity,4-hydroxytryptamine quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,455,MCV_0000442,4 hydroxy l tryptophan present,4-hydroxy-L-tryptophan present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,456,MCV_0000443,4 hydroxy l tryptophan quantity,4-hydroxy-L-tryptophan quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,457,MCV_0000444,4 hydroxyindole present,4-hydroxyindole present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,458,MCV_0000445,4 hydroxyindole quantity,4-hydroxyindole quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,459,MCV_0000446,4 ho met present,4-HO-MET present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,460,MCV_0000447,4 ho met quantity,4-HO-MET quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,461,MCV_0000448,4 ho mipt present,4-HO-MiPT present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,462,MCV_0000449,4 ho mipt quantity,4-HO-MiPT quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,463,MCV_0000450,5 hydroxyindoleacetic acid present,5-hydroxyindoleacetic acid present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,464,MCV_0000451,5 hydroxyindoleacetic acid quantity,5-hydroxyindoleacetic acid quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,465,MCV_0000452,5 hydroxytryptamine present,5-hydroxytryptamine present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,466,MCV_0000453,5 hydroxytryptamine quantity,5-hydroxytryptamine quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,467,MCV_0000454,5 hydroxytryptophan present,5-hydroxytryptophan present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,468,MCV_0000455,5 hydroxytryptophan quantity,5-hydroxytryptophan quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,469,MCV_0000456,5 6 dihydroxyindole dhi present,"5,6-dihydroxyindole (DHI) present",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,470,MCV_0000457,5 6 dihydroxyindole dhi quantity,"5,6-dihydroxyindole (DHI) quantity",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,471,MCV_0000458,7 acetyl 4 methy lazulene 1 carbalehyde present,7-acetyl-4-methylazulene-1-carbaldehyde present,spelling settled,"XDE's own slip, 'Methy-Lazulene' for methylazulene, and a typing slip of 2025, 'carbalehyde'. The registry holds the compound under this spelling."
+character,472,MCV_0000459,7 acetyl 4 methy lazulene 1 carbaldehyde quantity,7-acetyl-4-methylazulene-1-carbaldehyde quantity,spelling settled,"XDE's own slip, 'Methy-Lazulene' for methylazulene. The registry holds the compound under this spelling."
+character,473,MCV_0000460,7 isopropenyl 4 methyl azulene 1 carboxyli acid present,7-isopropenyl-4-methyl-azulene-1-carboxylic acid present,spelling settled,"A typing slip of 2025, 'carboxyli'; XDE wrote 'Carboxylic'. His marks are restored. The registry does not hold this name."
+character,474,MCV_0000461,7 isopropenyl 4 methyl azulene 1 carboxylic acid quantity,7-isopropenyl-4-methyl-azulene-1-carboxylic acid quantity,marks restored from XDE's wording,XDE's marks restored. The registry does not hold this name.
+character,477,MCV_0000464,15 hydroxy 3 6 dihydrolactarazulene present,"15-hydroxy-3,6-dihydrolactarazulene present",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,478,MCV_0000465,15 hydroxy 3 6 dihydrolactarazulene quantity,"15-hydroxy-3,6-dihydrolactarazulene quantity",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,479,MCV_0000466,15 hydroxy 6 7 dihydrolactarazulene present,"15-hydroxy-6,7-dihydrolactarazulene present",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,480,MCV_0000467,15 hydroxy 6 7 dihydrolactarazulene quantity,"15-hydroxy-6,7-dihydrolactarazulene quantity",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,487,MCV_0000474,b-carbolines present,beta-carbolines present,spelling settled,"XDE wrote the Greek letter; the list has 'b'. Spelled out, as the registry writes beta-carboline."
+character,488,MCV_0000475,b-carbolines quantity,beta-carbolines quantity,spelling settled,"XDE wrote the Greek letter; the list has 'b'. Spelled out, as the registry writes beta-carboline."
+character,489,MCV_0000476,baeocystin 1 present,baeocystin(1-) present,marks restored from XDE's wording,XDE's '(1−)' is the charge of the ion; the 2025 parse left a bare 1. The registry holds baeocystin(1-).
+character,490,MCV_0000477,baeocystin 1 quantity,baeocystin(1-) quantity,marks restored from XDE's wording,XDE's '(1−)' is the charge of the ion; the 2025 parse left a bare 1. The registry holds baeocystin(1-).
+character,491,MCV_0000478,bis trimethyl silyl psilocybin present,bis-trimethyl-silyl-psilocybin present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,492,MCV_0000479,bis trimethyl silyl psilocybin quantity,bis-trimethyl-silyl-psilocybin quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,493,MCV_0000480,bis trimethyl silyl psilocin present,bis(trimethylsilyl)psilocin present,marks as the registry writes them,"The same letters as XDE's 'Bis-Trimethyl-Silyl-Psilocin'; the marks are the registry's, which holds the compound under this name."
+character,494,MCV_0000481,bis trimethyl silyl psilocin quantity,bis(trimethylsilyl)psilocin quantity,marks as the registry writes them,"The same letters as XDE's 'Bis-Trimethyl-Silyl-Psilocin'; the marks are the registry's, which holds the compound under this name."
+character,503,MCV_0000490,d lysergic acid present,D-lysergic acid present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,504,MCV_0000491,d-lysergic acid quantity,D-lysergic acid quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,529,MCV_0000516,indole 3 acetic acid present,indole-3-acetic acid present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,530,MCV_0000517,indole 3 acetic acid quantity,indole-3-acetic acid quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,531,MCV_0000518,indole 3 butyric acid present,indole-3-butyric acid present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,532,MCV_0000519,indole 3 butyric acid quantity,indole-3-butyric acid quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,551,MCV_0000538,n methyltryptamine present,N-methyltryptamine present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,552,MCV_0000539,n methyltryptamine quantity,N-methyltryptamine quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,553,MCV_0000540,n n dimethyltryptamine present,"N,N-dimethyltryptamine present",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,554,MCV_0000541,n n dimethyltryptamine quantity,"N,N-dimethyltryptamine quantity",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,555,MCV_0000542,n acetylserotonin  nas normelatonin present,"N-acetylserotonin (NAS, normelatonin) present",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,556,MCV_0000543,n acetylserotonin  nas normelatonin quantity,"N-acetylserotonin (NAS, normelatonin) quantity",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,565,MCV_0000552,oxindole 2 Indolone present,oxindole (2-indolone) present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,566,MCV_0000553,oxindole 2 Indolone quantity,oxindole (2-indolone) quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,575,MCV_0000562,psilacetin o acetylpsilocin 4 aco dmt present,"psilacetin (O-acetylpsilocin, 4-AcO-DMT) present",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,576,MCV_0000563,psilacetin (o acetylpsilocin 4 aco dmt quantity,"psilacetin (O-acetylpsilocin, 4-AcO-DMT) quantity",marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,577,MCV_0000564,psilocybin 1 present,psilocybin(1-) present,marks restored from XDE's wording,XDE's '(1-)' is the charge of the ion; the 2025 parse left a bare 1. The registry holds psilocybin(1-).
+character,578,MCV_0000565,psilocybin 1 quantity,psilocybin(1-) quantity,marks restored from XDE's wording,XDE's '(1-)' is the charge of the ion; the 2025 parse left a bare 1. The registry holds psilocybin(1-).
+character,583,MCV_0000570,sanguinone a present,sanguinone A present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,584,MCV_0000571,sanguinone a quantity,sanguinone A quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,585,MCV_0000572,sanguinone b present,sanguinone B present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,586,MCV_0000573,sanguinone b quantity,sanguinone B quantity,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,587,MCV_0000574,seratoni 5 ht present,serotonin (5-HT) present,spelling settled,"XDE's own slip, 'Seratonin'; the list has 'seratoni'. The registry holds serotonin and lists 5-HT for it; it does not hold 'seratonin'."
+character,588,MCV_0000575,seratoni 5 ht quantity,serotonin (5-HT) quantity,spelling settled,"XDE's own slip, 'Seratonin'; the list has 'seratoni'. The registry holds serotonin and lists 5-HT for it; it does not hold 'seratonin'."
+character,604,MCV_0000590,alpha amanitin present,alpha-amanitin present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,605,MCV_0000591,beta amanitin present,beta-amanitin present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,606,MCV_0000592,gamma amanitin present,gamma-amanitin present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,607,MCV_0000593,epilson amanitin present,epsilon-amanitin present,spelling settled,"The list has 'epilson', a typing slip for the Greek letter XDE wrote. The registry holds epsilon-amanitin."
+character,608,MCV_0000594,delta amanitin present,delta-amanitin present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,614,MCV_0000600,anti bacterial chemical present,anti-bacterial chemical present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,615,MCV_0000601,anti fungal chemical present,anti-fungal chemical present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,616,MCV_0000602,anti cancer chemical present,anti-cancer chemical present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,617,MCV_0000603,anti mosquito chemical present,anti-mosquito chemical present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,618,MCV_0000604,anti nematode chemical present,anti-nematode chemical present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,619,MCV_0000605,anti tick chemical present,anti-tick chemical present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,620,MCV_0000606,anti protozoal chemical present,anti-protozoal chemical present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,621,MCV_0000607,anti viral chemical present,anti-viral chemical present,marks restored from XDE's wording,"The hyphens, commas, parentheses and capital letters are XDE's; the 2025 parse had turned them into spaces."
+character,622,MCV_0000608,dna sequence relevant production,DNA sequence relevant production,capital letters,An abbreviation; XDE writes DNA.
+character,632,MCV_0000618,mating compatibility predictive dna sequences,mating compatibility predictive DNA sequences,capital letters,An abbreviation; XDE writes DNA.
+character,661,MCV_0000646,dna complete its region sequence,DNA complete ITS region sequence,spelling,"XDE item 231 writes 'ITS', the name of a DNA region, and 'DNA'."
+character,662,MCV_0000647,dna entire genome sequence,DNA entire genome sequence,capital letters,An abbreviation; XDE writes DNA.
+character,663,MCV_0000648,dna exome sequencing,DNA exome sequencing,capital letters,An abbreviation; XDE writes DNA.
+character,664,MCV_0000649,dna additional regions,DNA additional regions,capital letters,An abbreviation; XDE writes DNA.
+character,665,MCV_0000650,dna genome sequence sub surface mycelium,DNA genome sequence sub surface mycelium,capital letters,An abbreviation; XDE writes DNA.
+character,666,MCV_0000651,dna substrata sequences,DNA substrata sequences,capital letters,An abbreviation; XDE writes DNA.
+character,667,MCV_0000652,dna all sequences,DNA all sequences,capital letters,An abbreviation; XDE writes DNA.
+value option,56,MCV_0000754,dry:  Silky,dry: Silky,spaces,A typing slip: two spaces in a row.
+value option,59,MCV_0000757,Moist:  lubricous/greasy,Moist: lubricous/greasy,spaces,A typing slip: two spaces in a row.
+value option,161,MCV_0000927,Flexous,Flexuous,spelling,A letter left out.
+value option,177,MCV_0000943,Glanular-dotted (w/dark sticky dots),Glandular-dotted (w/dark sticky dots),spelling,"Dark sticky dots on a stem are glandular dots, and XDE's item 52 writes 'Glandular-Dotted'. Claude's pick over 'granular'."
+value option,190,MCV_0000956,Punctuate (w/small dots),Punctate (w/small dots),spelling,Punctate means marked with dots; punctuate is another word.
+value option,235,MCV_0001017,Fibillose (thready),Fibrillose (thready),spelling,A letter left out; the list writes fibrillose elsewhere.
+value option,243,MCV_0001025,Floccose (downy tuffs),Floccose (downy tufts),spelling,"Tufts, the plural of tuft; tuff is a rock."
+value option,259,MCV_0001041,Coprophious (on dung) what kind?,Coprophilous (on dung) what kind?,spelling,A letter left out.
+value option,265,MCV_0001047,Terrestrial (on soil - bare ),Terrestrial (on soil - bare),spaces,A typing slip: a space before the closing parenthesis.
+value option,266,MCV_0001048,Terrestrial (on soil - burned ),Terrestrial (on soil - burned),spaces,A typing slip: a space before the closing parenthesis.
+value option,267,MCV_0001049,Terrestrial (on soil - disturbed ),Terrestrial (on soil - disturbed),spaces,A typing slip: a space before the closing parenthesis.
+value option,288,MCV_0001070,Floccose (downy tuffs),Floccose (downy tufts),spelling,"Tufts, the plural of tuft; tuff is a rock."
+value option,297,MCV_0001079,Fibillose (thready),Fibrillose (thready),spelling,A letter left out; the list writes fibrillose elsewhere.
+value option,332,MCV_0000728,Companulate,Campanulate,spelling,XDE's own slip (item 1).
+value option,372,MCV_0000806,Lacinate,Laciniate,spelling,XDE's own slip (item 12): a letter left out.
+value option,420,MCV_0000951,Longtidunally Striate,Longitudinally Striate,spelling,XDE's own slip (item 52): letters out of order.
+value option,478,MCV_0000705,Maraschino-cherry_like,Maraschino-cherry-like,punctuation,"A typing slip, an underscore for a hyphen: XDE item 151 writes 'maraschino-cherry-like'."

@@ -1,0 +1,18 @@
+id,part_name_english,part_name_latin,part_name_as_written,display_order,status,mrdbid_part_key
+MCV_0000001,Fruitbody form,Fruitbody form,Fruitbody form,5,proposed,1
+MCV_0000002,Basic,Basic,Basic,10,proposed,2
+MCV_0000003,Cap,Pileus,Cap - Pileus,20,proposed,3
+MCV_0000004,Gills,Lamellae,Gills - Lamellae,30,proposed,4
+MCV_0000005,Stem,Stipe,Stem - Stipe,40,proposed,5
+MCV_0000006,Veil,Veil,Veil,50,proposed,6
+MCV_0000007,Spores,Spores,Spores,60,proposed,7
+MCV_0000008,Micro,Micro,Micro,70,proposed,8
+MCV_0000009,Mycelium,Mycelium,Mycelium,80,proposed,9
+MCV_0000010,Rhizomorph,Rhizomorph,Rhizomorph,85,proposed,10
+MCV_0000011,Color,Color,Color,90,proposed,11
+MCV_0000012,Habitat,Habitat,Habitat,95,proposed,12
+MCV_0000013,Location,Location,Location,97,proposed,13
+MCV_0000014,Identification,Identification,Identification,110,proposed,14
+MCV_0000015,Storage,Storage,Storage,120,proposed,15
+MCV_0000016,Admin,Admin,Admin,130,proposed,16
+MCV_0000017,Ecology,Ecology,Ecology,100,proposed,17

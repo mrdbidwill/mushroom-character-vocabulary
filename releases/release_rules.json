@@ -1,0 +1,249 @@
+{
+ "about": "What release 1 of the Mushroom Character Vocabulary holds and how its identifiers are made. build_release.py reads this file.",
+ "version": "1.0.0",
+ "prepared": "2026-11-23",
+ "export": "character_list_2026-11-19_120047",
+ "decided": "Will, 2026-11-22 11:24, on the report that step 1 waited for his word: \"go\". The whole list in one release and the handover all at once are Claude's picks of the same hour, told to him before the build. Will, 2026-11-22 18:35, shown three characters beside the sentences of the first list quoted for them, and told that the license of those sentences was open: \"The character is pileus striate and the options are Yes or No. All of these can be Yes or No. No need to include so much text. Regarding permissions, XDE said \"You've got my blessing to do as you wish and how you best see things to be presented.\" which settles the issue.\" So: the sentences of the first list are not quoted in a release, each character names the item it came from, and the permission is settled by him.",
+ "identifiers": {
+  "prefix": "MCV",
+  "base": "https://w3id.org/mcv/",
+  "form": "MCV_ and seven digits. The number means nothing: it is only the order in which an identifier was given.",
+  "rules": [
+   "An identifier is given once and never reused. It is never deleted: a retired one stays in the register with a pointer to what replaced it.",
+   "An identifier names a part, a character or a value option of one character. A value option used by several characters has one identifier for each of them, so that each character can carry its own description of it (Will, 2026-11-19 10:51, on the description of such a value option: \"Each character gets its own\").",
+   "The wording may change from release to release; the identifier does not. The words as written stay on record beside the words shown.",
+   "The register, identifiers.csv, is add-only. It is kept beside the folder of the release, with build_release.py and release_rules.json. build_release.py keeps every identifier it finds there and gives the next number to anything new.",
+   "A thing that has no key in the MRDBID database is keyed in the register in another way: a new character by the label the rebuilt list gave it (NEW-1, NEW-2), an added value option by the key of its character and the letters of its name as first given. If such a name is changed in a later release, the rules of that release carry the identifier over; it is not given a new one."
+  ],
+  "restarted_before_publication": {
+   "on": "2026-11-22",
+   "register_replaced_sha256": "f31af282c9f812bf7b5b1f69469709443a4240208f7242d188eadec8b9e6150b",
+   "why": "Nothing was published. Will's word of 2026-11-22 18:35 replaced six value options of three characters by the general list and gave a fourth character that list. The candidate's register, which no site or person had used, was given afresh once, so that release 1 carries no number that names nothing. build_release.py starts afresh only if it finds exactly that candidate's register."
+  }
+ },
+ "license_data": "CC0 1.0 Universal",
+ "license_note": "The open list is Will Johnston's own compilation. Most of its characters were parsed from the first list, used by its author's permission of 2026-11-13. His words: \"You've got my blessing to do as you wish and how you best see things to be presented.\" He named no license; that his permission covers a CC0 release is Will Johnston's decision of 2026-11-20 and 2026-11-22. The sentences of the first list are not carried in this release. Where words of that list are the reason for a change, or for a topic left to users, they are quoted there, a short sentence or a phrase at a time. Words taken from a source that has a license of its own on record keep that license and are kept in a folder of their own. Where no reuse license is on record for a source, a description taken from it is not reissued and the source is named instead; the names of value options are listed, each with its source.",
+ "mission": "Will Johnston, 2026-11-14: \"The goal is to improve the accuracy of fungi data by providing tools to citizen scientists and others that make this goal easier.\"",
+ "consumption_line": "No advice about consumption. MRDBID records how sources describe fungi. It is not a guide to eating, using or handling any fungus, and nothing here says whether any fungus is safe. Values about chemistry or toxicity are reported only as their source states them.",
+ "status_line": "A proposal for use. Nobody can declare a standard; adoption comes from use. Every part, character and value option is marked proposed.",
+ "rebuild_spelling_words": [
+  {
+   "keys": [
+    "133",
+    "282",
+    "285",
+    "288"
+   ],
+   "from": "lamellaes",
+   "to": "lamellae",
+   "basis": "The plural of lamella is lamellae."
+  },
+  {
+   "keys": [
+    "140"
+   ],
+   "from": "gelantinour",
+   "to": "gelatinous",
+   "basis": "XDE item 28 writes 'gelatinous'."
+  },
+  {
+   "keys": [
+    "209"
+   ],
+   "from": "oxonium",
+   "to": "ozonium",
+   "basis": "XDE item 76: 'The presence of an ozonium'."
+  },
+  {
+   "keys": [
+    "261"
+   ],
+   "from": "ultraviolent",
+   "to": "ultraviolet",
+   "basis": "XDE item 115 writes 'ultraviolet'."
+  },
+  {
+   "keys": [
+    "307"
+   ],
+   "from": "guiac",
+   "to": "guaiac",
+   "basis": "XDE item 148 writes 'Guaiac'."
+  },
+  {
+   "keys": [
+    "315",
+    "316"
+   ],
+   "from": "pelei",
+   "to": "pilei",
+   "basis": "XDE item 156 writes 'pilei cystidia'."
+  },
+  {
+   "keys": [
+    "383",
+    "384"
+   ],
+   "from": "quttules",
+   "to": "guttules",
+   "basis": "XDE item 170 writes 'guttules'."
+  },
+  {
+   "keys": [
+    "409",
+    "410",
+    "411",
+    "412"
+   ],
+   "from": "mycelia",
+   "to": "mycelial",
+   "basis": "XDE item 180 writes 'mycelial cystidia'."
+  },
+  {
+   "keys": [
+    "430"
+   ],
+   "from": "acanthocytesPresent",
+   "to": "acanthocytes present",
+   "basis": "Two words run together."
+  }
+ ],
+ "spelling_kinds": [
+  "spelling",
+  "capital letters",
+  "punctuation",
+  "marks restored from XDE's wording",
+  "marks as the registry writes them",
+  "spelling settled",
+  "spaces"
+ ],
+ "other_kinds": [
+  "abbreviation written out",
+  "one term, one spelling",
+  "made clear from XDE's sentence",
+  "one of two alike kept"
+ ],
+ "other_license_origin": {
+  "starts_with": "FungalTraits",
+  "folder": "other_licenses/fungaltraits",
+  "credit": "Põlme S. et al. 2020. FungalTraits: a user-friendly traits database of fungi and fungus-like stramenopiles. Fungal Diversity 105: 1-16. doi:10.1007/s13225-020-00466-2. Table S1, Traits of genera.",
+  "license": "CC BY-NC, as a university repository lists the supplementary table; publisher copyright 2021 Mushroom Research Foundation. The license was not confirmed with the authors.",
+  "rule": "The words are the authors'. They are shown as written and are not corrected here; a correction is theirs to make."
+ },
+ "first_list": {
+  "title": "Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms",
+  "where": "Mushroom Observer species list 1417",
+  "tag": "XDE",
+  "credit": "Its author gave Will Johnston his blessing to use the list and asked for no credit; he was content to have the list itself credited. He names the work his list rests on: the literature of Dr. Gastón Guzmán, correspondence with Alan Rockefeller, and the literature of Else Vellinga, whose glossary in Flora Agaricina Neerlandica he recommends to others."
+ },
+ "frozen": "The folder of a release is published exactly as built. Its date of publication, its DOI and the address of its repository are recorded in PLAN.md and by the repository, not inside the release.",
+ "public_sources": {
+  "XDE": {
+   "source": "The first list (tag XDE): Observation List: Characters With Taxonomic Value For Stipitate-Lamellate Mushrooms, Mushroom Observer species list 1417",
+   "license": "used by its author's permission of 2026-11-13, which names no license; that it covers a CC0 release is Will Johnston's decision of 2026-11-20 and 2026-11-22; its sentences are not carried in this release"
+  },
+  "WN": {
+   "license": "WordNet 3.0 license of Princeton University; looked up only, no wording copied"
+  },
+  "FAO": {
+   "license": "CC0 1.0, as its repository states; term names and their synonym links used"
+  },
+  "W2": {
+   "license": "a word list distributed as public domain; looked up only"
+  },
+  "GC": {
+   "license": "GPL; looked up only"
+  },
+  "FK": {
+   "license": "not confirmed; looked up only, no wording copied"
+  }
+ },
+ "public_text": "A release carries no path of the workspace it was made in and no note that only the workspace can read: no code of the review sheet, no clock time without its date, no row number or file of the working folders. A basis may name the compiler's decision by its date. public_bases holds the rewordings, each a pattern and what replaces it; build_release.py stops if one of them finds nothing, and it stops if such a note is still in a file of the release.",
+ "public_bases": [
+  [
+   "Will marked yes in the review sheet \\(S\\d\\d\\)\\.",
+   "Will marked these names as one character in his review of 2026-11-19."
+  ],
+  [
+   "Will, question 13 in the review sheet: ",
+   "Will, in his review of 2026-11-19: "
+  ],
+  [
+   "Will, question 11: 'spore color is microscope'\\. Both are the spore color seen with a microscope \\(S52\\)\\.",
+   "Will, in his review of 2026-11-19: 'spore color is microscope'. Both are the spore color seen with a microscope."
+  ],
+  [
+   "As for S33: ",
+   "As for 'pilei cystidia present': "
+  ],
+  [
+   " \\(13:50, 18:55\\)\\.",
+   " (Will, 2026-11-19, in two messages)."
+  ],
+  [
+   "Will, 18:55: ",
+   "Will, 2026-11-19 18:55: "
+  ],
+  [
+   "His mark in the sheet says not sure\\.",
+   "His mark in his review says not sure."
+  ],
+  [
+   "Will's rule of 13:50",
+   "Will's rule of 2026-11-19 13:50"
+  ],
+  [
+   "; listed for Will\\.",
+   "."
+  ]
+ ],
+ "left_for_users_public": {
+  "about": "left_for_users.csv is written for a reader outside the workspace. A topic the later work settled is dropped, with the reason. A text that named a code of the review sheet or a clock time is given in public words. A place is a file of the release, and the things concerned are named by their identifiers. ids_by_option: the characters concerned are those with a value option that matches the pattern.",
+  "dropped": {
+   "L8": "Settled 2026-11-22: the chemical compound names were lined up with the first list's wording and a registry. They are in the two lists of changes.",
+   "L9": "Settled 2026-11-22: the 'present' name and the 'quantity' name of each compound now show one spelling. They are in the list of spelling corrections.",
+   "L10": "Settled 2026-11-22: the three spellings were corrected. They are in the list of spelling corrections."
+  },
+  "text": {
+   "L1": "Names that may be one character. Kept as separate characters. Will marked one pair as not the same in his review of 2026-11-19; for the others the words differ, and his rule of that day keeps both unless the words are identical.",
+   "L2": "Pairs that Will marked not sure in his review of 2026-11-19. Kept as separate characters. For the color pairs his notes ask for one consistent way to hold one color and several colors.",
+   "L16": "Free-text characters that have no value options.",
+   "L19": "A word in the name that XDE's sentence does not have, kept because Will's 2025 sheet writes it in every saved copy: 'base' in the five 'stipe base striation' names. XDE item 67 says 'Any stipe striations'; item 66, just before it, is about the stipe base.",
+   "L11": "XDE's sentence names more than the list holds, but not in words certain enough to add: the 'development' of the veil and of the annulus (items 44, 45); a value named as a noun (commonness, item 136); three pairs of values that do not cover every case (strict or relaxed lines, item 68; peeling up or down, item 77; tapered upward or downward, item 85).",
+   "L14": "Value options that may be one value in two wordings, after XDE's list for the pileus margin was added to the joined character: Incurved and Incurved [Encurved]; Involute and Involute [Inrolled]; Revolute and Revolute [Rolled Back]; Exceeding and Exceeding Gills. XDE ends five of the lists added here with 'etc.' (items 13, 34, 103, 217 and 222); Will's 2025 sheet writes 'Other' for that in 13 lists. 'Other' was not added."
+  },
+  "where": {
+   "L16": "characters.csv: type text, outside the chemical compounds",
+   "W3": "value_options.csv",
+   "W4": "value_options.csv of this folder",
+   "W5": "characters.csv: character_name_english",
+   "W6": "value_options.csv: the options of these characters",
+   "W7": "value_options.csv: an option of this character",
+   "W8": "value_options.csv: two options of this character",
+   "C1": "characters.csv: these names have no pubchem_cid",
+   "C2": "characters.csv: these names have no pubchem_cid",
+   "C3": "characters.csv: one pubchem_cid in two characters",
+   "C6": "characters.csv",
+   "C7": "characters.csv: note",
+   "C8": "characters.csv: note",
+   "W9": "parts.csv: MCV_0000001"
+  },
+  "ids_by_option": {
+   "W6": "(?<![A-Za-z])w/|(?<![A-Za-z])dp\\.|(?<![A-Za-z])diff\\.|\\bPV\\b|\\betc\\b"
+  }
+ },
+ "sources_added": [
+  {
+   "source": "Will's 2025 sheet and load script: the spreadsheet in which Will Johnston parsed the first list into characters in 2025, and the script that loaded it into the MRDBID database",
+   "license": "Will Johnston's own working files; not published",
+   "read": "",
+   "used_for": "named in the basis of a change: how a name, a unit of measure or a type came to be as stored"
+  },
+  {
+   "source": "Will's review of 2026-11-19: Will Johnston's marks and notes on the sorted list, pair by pair and question by question",
+   "license": "Will Johnston's own decisions; his words are quoted in the basis of a change",
+   "read": "",
+   "used_for": "named in the basis of a change: which names are one character, and the value options Yes, No, Unknown, Not Tested"
+  }
+ ]
+}
