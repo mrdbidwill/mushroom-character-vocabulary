@@ -1,0 +1,4 @@
+from_list,topic,what_is_left,where,ids,character_names_as_written,mrdbid_character_keys
+the rebuild,L1,"Names that may be one character. Kept as separate characters. Will marked one pair as not the same in his review of 2026-11-19; for the others the words differ, and his rule of that day keeps both unless the words are identical.",,MCV_0000116 MCV_0000663 MCV_0000664,fungus types | Fruitbody type | Hymenium type,100 678 679
+the rebuild,L1,"Names that may be one character. Kept as separate characters. Will marked one pair as not the same in his review of 2026-11-19; for the others the words differ, and his rule of that day keeps both unless the words are identical.",,MCV_0000229 MCV_0000653,nutrition mode | Primary lifestyle,230 668
+the words,W4 FungalTraits value options,"Shown as the authors wrote them. Two look like slips: 'unsepcified_saprotroph', 'opening slith-like'. A correction is the authors' to make.",value_options.csv of this folder,,,

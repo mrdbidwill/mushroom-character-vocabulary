@@ -1,0 +1,172 @@
+{
+ "what": "Mushroom Character Vocabulary, release 1.1.0: release 1.0.0 plus step 2 (definitions, units, links, additions, references); a release candidate until published",
+ "built_on": {
+  "release": "1.0.0",
+  "manifest_sha256": "6ad0d0754d2b01b3f6ab88b7456469ef659db602dcb1649c55690f627c9c1ef9"
+ },
+ "inputs": {
+  "definitions/additions.csv": "cb2a26d1f9b2c526cbd6e21645bbeee77ec33c1696491e5fbf665874f4f93f53",
+  "rebuild/character_list_2026-11-19_120047/xde_match.csv": "f629eceaa13cf0fd6a19334185057be3d537771626558e8aaaa19c8ab9ad0c7a",
+  "definitions/parts_2026-11-23/definitions.csv": "64e8ce108044877ad3a1ecd8255016fa3feb1f06eaa5eb72aa1446fd023d8084",
+  "definitions/values_all_parts_2026-11-23/definitions.csv": "b2bcf6477fb1052c916cbf2ebf031b7c09049894318dae9043830824a13e966e",
+  "definitions/characters_2026-11-23/definitions.csv": "5725ddbd7e90825b3acb9ad00974106d725c0e831acb89a66bef6c5c6576c6ed",
+  "definitions/units_2026-11-23/character_units.csv": "8d8ddbe2c97bff9e8962b743b91f74f3d0289d499cccba5ce8d8cb138a48838d",
+  "definitions/links_2026-11-23/links.csv": "f99abb814aebd3a20c7202bd62e9e921cce8475a24a9b7eb69f41d187e388190"
+ },
+ "shared_inputs": {
+  "references.csv": "d437ced7df5d3c4bdaacb109c5524bb801f14e7b53e61025c62a70a9c3004bd3",
+  "disclaimer.json": "fd34b16e107a81550051f40e62324f5722b1d7332fb7bf804f14052954630716"
+ },
+ "register": {
+  "file": "releases/identifiers.csv",
+  "sha256": "10229c258507f4c71c300cce06574dd30abb5cdd7f84a26992b7cac3216934a0",
+  "identifiers": 2244
+ },
+ "made_by": {
+  "tool": "releases/build_release_1_1_0.py",
+  "sha256": "974b6d29e5ed24c9bdf999888cb0689de2b1517b0d29d1d649c79d803a818bce"
+ },
+ "run_at_utc": "2026-11-24T14:41:10Z",
+ "counts": {
+  "identifiers": 2244,
+  "identifiers_new_in_1.1.0": 77,
+  "parts": 17,
+  "characters": 654,
+  "characters_cc0": 638,
+  "characters_other_license": 16,
+  "value_options": 1573,
+  "value_options_cc0": 1313,
+  "value_options_other_license": 260,
+  "characters_added": 1,
+  "value_options_added": 76,
+  "units": 73,
+  "units_set_in_1.1.0": 14,
+  "units_new_version_in_1.1.0": 2,
+  "definition_records": 800,
+  "definition_records_by_source": {
+   "FAO": 8,
+   "KAUFFMAN1918": 656,
+   "PubChem": 136
+  },
+  "definition_records_by_target_and_relation": {
+   "character: cross-reference": 23,
+   "character: pointer": 136,
+   "character: related": 29,
+   "character: the quality it records": 43,
+   "character: the structure it describes": 131,
+   "character: the term it records": 3,
+   "part: cross-reference": 2,
+   "part: defines": 14,
+   "part: describes the group": 3,
+   "part: narrower": 5,
+   "value option: cross-reference": 3,
+   "value option: defines": 262,
+   "value option: related": 146
+  },
+  "parts_with_no_source_found": 6,
+  "characters_with_no_source_found": 342,
+  "value_options_by_definition": {
+   "searched, no entry found": 151,
+   "answer words, not looked up": 763,
+   "with a record": 372,
+   "not searched": 27
+  },
+  "links": 52,
+  "links_by_kind": {
+   "character: same as": 2,
+   "character: not the same": 1,
+   "character: close": 27,
+   "value option: close": 15,
+   "value option: same as": 7
+  },
+  "references": 81,
+  "references_with_notice": 4,
+  "references_cited_for_characters": 16
+ },
+ "files": {
+  "LICENSE.md": {
+   "bytes": 2366,
+   "sha256": "99e1d7ec4e99ea254c23c4bfe0f24a269a03780c9ab605fed49a7a7991a2b4a8"
+  },
+  "README.md": {
+   "bytes": 6427,
+   "sha256": "ecf0f604140d4f59a14b20daa88a1d909895b341602f31012df21a75c00385df"
+  },
+  "changes/changes_in_1.1.0.csv": {
+   "bytes": 19533,
+   "sha256": "d89722afe7ff00967520e7e976dd8b0ed451c713d67dd252a01882bf694b68f4"
+  },
+  "changes/new_versions_and_links.csv": {
+   "bytes": 142361,
+   "sha256": "e3c6ed6c3c960feaffb5683d2528a74755b4682f1cd3ae8b7dff9f1303347f64"
+  },
+  "changes/spelling_corrections.csv": {
+   "bytes": 26511,
+   "sha256": "980686ebe0874a108c2217e43791793cac8a134e2bb198b2749a4ccecc7f2cc5"
+  },
+  "characters.csv": {
+   "bytes": 187379,
+   "sha256": "73d9e682c6fa5e5a698ade275561d6ad74e40e95471018e10aecbc80b99082f0"
+  },
+  "definitions.csv": {
+   "bytes": 248009,
+   "sha256": "0fba976f01e81dc8a52d9347483cef6a6baf37d708ac3fd8fd99e2af4f6549d8"
+  },
+  "keys.csv": {
+   "bytes": 44015,
+   "sha256": "14b7153348e9ad39774a2bd3ec6d89b176636311f16abcf9368a73252a749575"
+  },
+  "left_for_users.csv": {
+   "bytes": 52615,
+   "sha256": "77244d6534c982f76d089505e68cccab28b4a9a6c3f3680909dbd45c8532016d"
+  },
+  "links.csv": {
+   "bytes": 9136,
+   "sha256": "fbbf31673457acac2a0fcf7fd5306ac54565cb174de659cb6f6a31d84b9b9a7c"
+  },
+  "other_licenses/fungaltraits/README.md": {
+   "bytes": 766,
+   "sha256": "800b6f57349e7146fc7b171c4cb7e3ca8f1e64462b4c4dc122e27fd397f43046"
+  },
+  "other_licenses/fungaltraits/characters.csv": {
+   "bytes": 5084,
+   "sha256": "47f8c7165cc10cc8945efe3fd4b9ea5e21d16c89c5e0dbb43be58bf4550e520e"
+  },
+  "other_licenses/fungaltraits/left_for_users.csv": {
+   "bytes": 961,
+   "sha256": "c1ca2bf95a0fbc27ec830b544b70f98c53f778f8d6b1ae6580b398e329ff1482"
+  },
+  "other_licenses/fungaltraits/value_options.csv": {
+   "bytes": 56593,
+   "sha256": "917253f63c3da261b33b4c77fa7106a6acbad3fe9137ff8fdb0e16dc44218d44"
+  },
+  "other_licenses/uo/README.md": {
+   "bytes": 528,
+   "sha256": "a8dc4c778d13441ede7b988def37788463a64e7525e9165954fd1f592e0abcfe"
+  },
+  "parts.csv": {
+   "bytes": 985,
+   "sha256": "d3e521488a77fbb49f2ef5c0e3a0f97144f2389bf745563dd6c652eb84086386"
+  },
+  "references.csv": {
+   "bytes": 21878,
+   "sha256": "97426a187fa62052f07773a8902fef7dc4e8a12f0e44fe4b478ba0b44250d8f6"
+  },
+  "sources.csv": {
+   "bytes": 6880,
+   "sha256": "6acdb3fc8c476c97eed7d1a7890bb31a69613d4b99b06c60dab8d0f18adf0da8"
+  },
+  "units.csv": {
+   "bytes": 7301,
+   "sha256": "996e7c664a114d0fbe102dc0a9ec6382127b2ce09e541c3b0bc07cf552baca2e"
+  },
+  "value_options.csv": {
+   "bytes": 170855,
+   "sha256": "3dfb19d6f7ac671ec2872614f09cdd61751fb63445ed9ab056fbc06de445530f"
+  },
+  "vocabulary.json": {
+   "bytes": 1022814,
+   "sha256": "cf22f170dc9de22433aef1677b9d6abc574cd3d88b7db73182f7797301c322cc"
+  }
+ }
+}

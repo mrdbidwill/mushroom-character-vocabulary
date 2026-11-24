@@ -1,0 +1,74 @@
+character_id,character_name_english,unit,unit_name_english,uo_id,uo_name,in_this_release,note
+MCV_0000024,cap width,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000025,cap height,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000043,cap flesh thickness disc,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000044,cap flesh thickness margin,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000061,stem height,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000062,stem diameter top,mm,millimeter,UO:0000016,millimeter,set in 1.1.0,"Like the other stem measures (stem width, stem height), which are in mm."
+MCV_0000063,stem diameter mid,mm,millimeter,UO:0000016,millimeter,set in 1.1.0,"Like the other stem measures, which are in mm."
+MCV_0000064,stem diameter low,mm,millimeter,UO:0000016,millimeter,set in 1.1.0,"Like the other stem measures, which are in mm."
+MCV_0000089,spore range low,µm,micrometer,UO:0000017,micrometer,new version in 1.1.0 (1.0.0: mm),"mm for a spore range is evidently a slip for µm. A unit change is a new version, never a correction: release 1.0.0 keeps mm as written."
+MCV_0000090,spore range high,µm,micrometer,UO:0000017,micrometer,new version in 1.1.0 (1.0.0: mm),"mm for a spore range is evidently a slip for µm. A unit change is a new version, never a correction: release 1.0.0 keeps mm as written."
+MCV_0000099,weight before dry,g,gram,UO:0000021,gram,set in 1.1.0,Mass of a specimen: the gram (the SI base unit of mass is the kilogram; the gram suits specimens).
+MCV_0000100,weight after dry,g,gram,UO:0000021,gram,set in 1.1.0,Mass of a specimen: the gram.
+MCV_0000101,elevation,m,meter,UO:0000008,meter,set in 1.1.0,"Elevation in meters, as Darwin Core records it (minimumElevationInMeters)."
+MCV_0000102,soil pH,pH,pH,UO:0000196,pH,set in 1.1.0,Soil pH is a dimensionless scale; UO gives it as a unit.
+MCV_0000109,location found latitude,°,degree (decimal degrees),UO:0000185,degree,set in 1.1.0,"Latitude in decimal degrees, as Darwin Core records it (decimalLatitude)."
+MCV_0000110,location found longitude,°,degree (decimal degrees),UO:0000185,degree,set in 1.1.0,"Longitude in decimal degrees, as Darwin Core records it (decimalLongitude)."
+MCV_0000122,cap tissue thickness,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000132,cap striations length,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000133,cap striations width,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000134,cap striations depth,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000168,stem width,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000169,stem bulbous base diameter,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000170,stem bulbous base height,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000179,stem base width,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000180,stem base height,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000186,stem basal mycelium width,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000187,stem basal mycelium length,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000196,stem base striation length,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000197,stem base striation width,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000198,stem base striation depth,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000203,stem volva height,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000224,fruiting body entire height,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000234,fruiting body entire weight,g,gram,UO:0000021,gram,set in 1.1.0,Mass of a specimen: the gram.
+MCV_0000263,fruiting temperature low,°C,degree Celsius,UO:0000027,degree Celsius,set in 1.1.0,"Temperature in degrees Celsius, the scientific standard; a display in °F can be offered."
+MCV_0000264,fruiting temperature high,°C,degree Celsius,UO:0000027,degree Celsius,set in 1.1.0,Temperature in degrees Celsius; a display in °F can be offered.
+MCV_0000265,fruiting humidity low,%,percent,UO:0000187,percent,set in 1.1.0,Relative humidity in percent.
+MCV_0000266,fruiting humidity high,%,percent,UO:0000187,percent,set in 1.1.0,Relative humidity in percent.
+MCV_0000285,veil thickness,mm,millimeter,UO:0000016,millimeter,as in 1.0.0,
+MCV_0000312,pileipellis end hyphae measurement,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000313,pileocystidia measurement,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000314,cap setae measurement,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000315,circumcystidia measurement,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000325,spore width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000326,spore height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000327,spore width maximum,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000328,spore width minimum,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000329,spore height maximum,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000330,spore height minimum,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000332,spore wall thickness,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000342,gill cheilocystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000348,gill cheilocystidia wall thickness,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000352,gill pleurocystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000353,gill pleurocystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000359,gill pleurocystidia wall thickness,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000364,gill other types cystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000365,gill other types cystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000366,gill other types cystidia capitula width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000367,gill basidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000368,gill basidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000383,stem cystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000384,stem cystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000387,cap cystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000388,cap cystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000391,caulocystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000392,caulocystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000395,chrysocystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000396,chrysocystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000399,mycelial cystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000400,mycelial cystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000403,brachycystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000404,brachycystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000407,lamprocystidia width,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,
+MCV_0000408,lamprocystidia height,µm,micrometer,UO:0000017,micrometer,as in 1.0.0,

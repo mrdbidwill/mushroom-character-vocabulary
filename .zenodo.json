@@ -1,7 +1,7 @@
 {
   "title": "Mushroom Character Vocabulary",
   "upload_type": "dataset",
-  "description": "A list of the characters used to describe mushrooms: the parts of a mushroom, the characters of each part, and the value options of each character, each with a permanent identifier (https://w3id.org/mcv/). A proposal for use; every entry is marked proposed. Release 1.0.0: 2167 identifiers (17 parts, 653 characters, 1497 value options). LICENSES: the record is marked CC0 1.0 because the open list, the register and the rules are CC0 1.0. NOT CC0: the folder releases/1.0.0/other_licenses/fungaltraits/ (16 characters and 260 value options, words of FungalTraits, Põlme et al. 2020, CC BY-NC as a university repository lists it; not confirmed with the authors) and the pages in docs/ that show those words. The scripts are MIT. See README.md and LICENSE.md.",
+  "description": "A list of the characters used to describe mushrooms: the parts of a mushroom, the characters of each part, and the value options of each character, each with a permanent identifier (https://w3id.org/mcv/). A proposal for use; every entry is marked proposed. Release 1.1.0: 2244 identifiers (17 parts, 654 characters, 1573 value options), with 800 definition records, units for 73 measurement characters, 52 links and 81 references; release 1.0.0 unchanged. No advice about consumption: this vocabulary reports how sources describe fungi; it is not a guide to eating, using or handling any fungus. LICENSES: the record is marked CC0 1.0 because the open list, the register and the rules are CC0 1.0. NOT CC0: the folders releases/*/other_licenses/fungaltraits/ (16 characters and 260 value options, words of FungalTraits, Põlme et al. 2020, CC BY-NC as a university repository lists it; not confirmed with the authors) and the pages in docs/ that show those words; in release 1.1.0 the UO identifiers and unit names in units.csv (Units of Measurement Ontology, CC BY 4.0, credited in releases/1.1.0/other_licenses/uo/). Quotations in definitions.csv are from Kauffman 1918 (public domain in the United States). The scripts are MIT. See README.md and LICENSE.md.",
   "creators": [
     {
       "name": "Johnston, Will"
@@ -22,5 +22,6 @@
       "relation": "isDocumentedBy",
       "scheme": "url"
     }
-  ]
+  ],
+  "version": "1.1.0"
 }

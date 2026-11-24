@@ -4,12 +4,14 @@
 The open list of each release, the register of identifiers (`releases/identifiers.csv`) and the rules
 (`releases/release_rules.json`), all Will Johnston's own data, are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/ . Each release's own `LICENSE.md` states exactly which files it
-covers. The files under `releases/*/other_licenses/` are not CC0; they keep their sources' licenses.
+covers. The files under `releases/*/other_licenses/` are not CC0; they keep their sources' licenses. In release 1.1.0
+the UO identifiers and unit names in `units.csv` (and `vocabulary.json`) are CC BY 4.0, credited in
+`releases/1.1.0/other_licenses/uo/`.
 The pages in `docs/` show the release's words under the same licenses as the release files they come from;
 each page names its license.
 
 ## Code: MIT License
-Applies to `releases/build_release.py` and `tools/build_pages.py`.
+Applies to `releases/build_release.py`, `releases/build_release_1_1_0.py` and `tools/build_pages.py`.
 
 Copyright (c) 2026 Will Johnston
 

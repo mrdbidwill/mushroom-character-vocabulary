@@ -1,0 +1,53 @@
+link,kind,from_id,from_name,relation,to_id,to_name,character_id,basis
+L0001,character,MCV_0000452,5-hydroxytryptamine present,same as,MCV_0000574,serotonin (5-HT) present,,"the same PubChem compound, CID 5202, and the same kind (named compound: present)"
+L0002,character,MCV_0000453,5-hydroxytryptamine quantity,same as,MCV_0000575,serotonin (5-HT) quantity,,"the same PubChem compound, CID 5202, and the same kind (named compound: quantity)"
+L0003,character,MCV_0000088,spore color,not the same,MCV_0000148,gill spore print colors,,"Will, review of 2026-11-19, question 11: ""spore color is microscope, spore print color is macro""."
+L0004,character,MCV_0000023,habit,close,MCV_0000239,growth pattern general,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0005,character,MCV_0000306,cap cystidia size,close,MCV_0000313,pileocystidia measurement,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0006,character,MCV_0000382,stem cystidia present,close,MCV_0000389,caulocystidia present,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0007,character,MCV_0000383,stem cystidia width,close,MCV_0000391,caulocystidia width,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0008,character,MCV_0000384,stem cystidia height,close,MCV_0000392,caulocystidia height,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0009,character,MCV_0000385,stem cystidia form,close,MCV_0000390,caulocystidia form,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0010,character,MCV_0000428,cyanescin (baeocystin) present,close,MCV_0000476,baeocystin(1-) present,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0011,character,MCV_0000429,cyanescin (baeocystin) quantity,close,MCV_0000477,baeocystin(1-) quantity,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0012,character,MCV_0000424,psilocybin present,close,MCV_0000564,psilocybin(1-) present,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0013,character,MCV_0000425,psilocybin quantity,close,MCV_0000565,psilocybin(1-) quantity,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0014,character,MCV_0000302,color reaction sulfovanillin,close,MCV_0000422,chemical tests sulfovanillin,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0015,character,MCV_0000415,cell chemical reaction test Melzer's,close,MCV_0000423,chemical tests Melzer's,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0016,character,MCV_0000409,mycelial conidia,close,MCV_0000623,mycelium conidia present,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0017,character,MCV_0000556,phallotoxins and phalloidins present,close,MCV_0000587,phallotoxins present,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0018,character,MCV_0000059,gills deliquescent,close,MCV_0000243,deliquescence present,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0019,character,MCV_0000062,stem diameter top,close,MCV_0000168,stem width,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0020,character,MCV_0000063,stem diameter mid,close,MCV_0000168,stem width,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0021,character,MCV_0000064,stem diameter low,close,MCV_0000168,stem width,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0022,character,MCV_0000084,universal outer veil volva,close,MCV_0000204,stem volva present,,"left for users in release 1.0.0, topic L1: names that may be one character"
+L0023,character,MCV_0000028,cap color,close,MCV_0000123,cap color spectrum,,"left for users in release 1.0.0, topic L2: pairs Will marked not sure in his review of 2026-11-19"
+L0024,character,MCV_0000066,stem color,close,MCV_0000171,stem colors,,"left for users in release 1.0.0, topic L2: pairs Will marked not sure in his review of 2026-11-19"
+L0025,character,MCV_0000066,stem color,close,MCV_0000173,stem color spectrum,,"left for users in release 1.0.0, topic L2: pairs Will marked not sure in his review of 2026-11-19"
+L0026,character,MCV_0000076,partial inner veil ring position,close,MCV_0000114,ring position,,"left for users in release 1.0.0, topic L2: pairs Will marked not sure in his review of 2026-11-19"
+L0027,character,MCV_0000114,ring position,close,MCV_0000221,stem ring height in relation to stem,,"left for users in release 1.0.0, topic L2: pairs Will marked not sure in his review of 2026-11-19"
+L0028,character,MCV_0000077,veil ring,close,MCV_0000081,partial inner veil ring,,"left for users in release 1.0.0, topic L2: pairs Will marked not sure in his review of 2026-11-19"
+L0029,character,MCV_0000082,partial inner veil appearance,close,MCV_0000120,veils,,"left for users in release 1.0.0, topic L2: pairs Will marked not sure in his review of 2026-11-19"
+L0030,character,MCV_0000086,mycelium color,close,MCV_0000634,mycelium colors,,"left for users in release 1.0.0, topic L2: pairs Will marked not sure in his review of 2026-11-19"
+L0031,value option,MCV_0000828,Incurved,close,MCV_0000845,Incurved [Encurved],MCV_0000038,one is written with a second word in square brackets; release 1.0.0 leaves such pairs for users (L14)
+L0032,value option,MCV_0000829,Involute,close,MCV_0000846,Involute [Inrolled],MCV_0000038,one is written with a second word in square brackets; release 1.0.0 leaves such pairs for users (L14)
+L0033,value option,MCV_0000830,Revolute,close,MCV_0000848,Revolute [Rolled Back],MCV_0000038,one is written with a second word in square brackets; release 1.0.0 leaves such pairs for users (L14)
+L0034,value option,MCV_0000865,Adnexed (almost free),same as,MCV_0000876,Adnexed,MCV_0000050,the same word; one is written with a gloss in parentheses
+L0035,value option,MCV_0000895,"Eroded (""gnawed"")",same as,MCV_0000902,Eroded,MCV_0000056,the same word; one is written with a gloss in parentheses
+L0036,value option,MCV_0000943,Glandular-dotted (w/dark sticky dots),same as,MCV_0000979,Glandular-Dotted,MCV_0000073,the same word; one is written with a gloss in parentheses
+L0037,value option,MCV_0000950,Lacunose (w/dp.grooves),same as,MCV_0000980,Lacunose,MCV_0000073,the same word; one is written with a gloss in parentheses
+L0038,value option,MCV_0000953,Pruinose,close,MCV_0000982,Pruinose [Powdery],MCV_0000073,one is written with a second word in square brackets; release 1.0.0 leaves such pairs for users (L14)
+L0039,value option,MCV_0000956,Punctate (w/small dots),same as,MCV_0000983,Punctate,MCV_0000073,the same word; one is written with a gloss in parentheses
+L0040,value option,MCV_0000957,Reticulate (fishnet),same as,MCV_0000984,Reticulate,MCV_0000073,the same word; one is written with a gloss in parentheses
+L0041,value option,MCV_0000963,Scabrous (scabby),same as,MCV_0000985,Scabrous,MCV_0000073,the same word; one is written with a gloss in parentheses
+L0042,value option,MCV_0000685,Maraschino cherries,close,MCV_0000705,Maraschino-cherry-like,MCV_0000020,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0043,value option,MCV_0000730,conic,close,MCV_0000743,Conical,MCV_0000026,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0044,value option,MCV_0000900,Serrate,close,MCV_0000904,Serrated,MCV_0000056,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0045,value option,MCV_0000939,Fibrous,close,MCV_0000978,Fibrose,MCV_0000073,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0046,value option,MCV_0000827,Exceeding,close,MCV_0000849,Exceeding Gills,MCV_0000038,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0047,value option,MCV_0000683,Garlic,close,MCV_0000704,Garlic-like,MCV_0000020,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0048,value option,MCV_0000679,Anise (licorice),close,MCV_0000695,Anise-like,MCV_0000020,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0049,value option,MCV_0000820,Strigose,close,MCV_0000790,Strigose - Hairy,MCV_0000037,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0050,value option,MCV_0000822,Tomentose,close,MCV_0000791,Tomentose - Hairy,MCV_0000037,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0051,value option,MCV_0000850,Serrate,close,MCV_0000839,Serrate - Hairy,MCV_0000038,"two forms of one word, or one word with an added word; whether they are one value is for users"
+L0052,value option,MCV_0001007,hollow,close,MCV_0000999,Hollow - fistulose,MCV_0000075,"two forms of one word, or one word with an added word; whether they are one value is for users"
