@@ -11,7 +11,7 @@ A list of the characters used to describe mushrooms: the parts of a mushroom, th
 - Files: [`releases/1.1.0/`](releases/1.1.0/). Start with its [README](releases/1.1.0/README.md).
 - 2244 identifiers, MCV_0000001 to MCV_0002244: 17 parts, 654 characters, 1573 value options. New in 1.1.0: 800 definition records, units for 73 measurement characters, 52 links, 81 references, 1 character and 76 value options (MCV_0002168 to MCV_0002244). Release 1.0.0 is unchanged.
 - Identifiers: `https://w3id.org/mcv/MCV_` and seven digits, for example https://w3id.org/mcv/MCV_0000026. Each leads to a page for that part, character or value option. The address is registered at w3id.org (live since 2026-11-23) and redirects to the pages at https://mrdbidwill.github.io/mushroom-character-vocabulary/.
-- Archive and DOI (Zenodo): all releases [10.5281/zenodo.24465418](https://doi.org/10.5281/zenodo.24465418); release 1.0.0 [10.5281/zenodo.24465419](https://doi.org/10.5281/zenodo.24465419).
+- Archive and DOI (Zenodo): release 1.1.0 [10.5281/zenodo.24513196](https://doi.org/10.5281/zenodo.24513196); all releases [10.5281/zenodo.24465418](https://doi.org/10.5281/zenodo.24465418).
 - Checksums: every file of the release is listed with its SHA-256 in [`MANIFEST.json`](releases/1.1.0/MANIFEST.json).
 
 ## Earlier releases
